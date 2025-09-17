@@ -1,7 +1,7 @@
 ---
 title: "Klimagerechtigkeit"
 lang: de
-title-block-banner: "/assets/images/climate-splash.jpg"
+title-block-banner: "../assets/images/climate-splash.jpg"
 title-block-banner-caption: 'Foto: **Rieke Ammoneit**'
 format:
   html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }

@@ -1,7 +1,7 @@
 ---
 title: "Einführung"
 lang: de
-title-block-banner: "/assets/images/00-unit-splash.jpg"
+title-block-banner: "../assets/images/00-unit-splash.jpg"
 title-block-banner-caption: 'Foto: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
 #resource-path: ["..", "images", "."]  # darf im übergeordneten Ordner suchen
 

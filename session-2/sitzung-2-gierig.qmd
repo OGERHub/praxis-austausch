@@ -1,7 +1,7 @@
 ---
 title: "Gierig oder solidarisch"
 lang: de
-title-block-banner: "/assets/images/greedy-splash.png"
+title-block-banner: "../assets/images/greedy-splash.png"
 title-block-banner-caption: 'Foto: **Rieke Ammoneit**'
 format-links: [html, pdf, docx]  
 format:

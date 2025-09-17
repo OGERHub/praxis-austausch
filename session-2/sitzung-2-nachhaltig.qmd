@@ -1,0 +1,45 @@
+---
+title: "Nachhaltige Welt"
+lang: de
+title-block-banner: "../assets/images/climate-splash.jpg"
+title-block-banner-caption: 'Foto: **Rieke Ammoneit**'
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
+  pdf:
+    pdf-engine: lualatex         
+  docx: default    
+---
+
+
+Nachdem klar ist, dass der Begriff viel Theorie und Politik umfasst — und dass vor fast genau 50 Jahren ein **konkretes Modell** die Debatte auslöste — schauen wir uns das *Weltmodell* an.
+
+<!--more-->
+
+::: {callout-tip}
+Plant für die Einheit **„Sustainable World“** etwa **10 Minuten** ein.
+:::
+
+Für einen ersten Einstieg eignet sich die Online-Umgebung **Insightmaker** sehr gut; sie bietet einen niederschwelligen Zugang zur Systemdynamik.
+
+Das **[World3-Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation)** — eine bekannte Version des ursprünglichen Weltmodells — lässt sich direkt im Browser betrachten und in eigenen **Szenarien** (Simulationen) ausprobieren.
+
+### Probiert es aus …
+
+- Findet heraus, **wann der Wendepunkt des Wohlstandsniveaus** vorhergesagt wird.  
+- **Variiert den Zeithorizont** und zentrale Parameter mit den Slidern.  
+- Schaut in die **Modellstruktur**: Welchen Eindruck macht sie? Wie wirkt sie auf euch?
+
+## Im Rucksack …
+
+::: {callout-note}
+**Modelle sind immer zweckmäßige Vereinfachungen.**
+:::
+
+Das Modell von Forrester ist komplex und ohne Einarbeitung schwer zu durchdringen. Dennoch bildet es die Realität **bewusst stark vereinfacht** ab. Beim Modellieren konzentrieren wir uns **gezielt auf relevante Faktoren und Beziehungen** und lassen anderes weg — nur so kommen wir zu handhabbaren Ergebnissen.
+
+## Mehr dazu
+
+### Insightmaker
+Auf **[Insightmaker](https://insightmaker.com/)** findet ihr viele Beispiel-Modelle; ihr könnt auch eigene Modelle erstellen und simulieren.
+
+Kurzvortrag: **[System Dynamic Modeling](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s)**.

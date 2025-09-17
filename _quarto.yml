@@ -54,10 +54,14 @@ website:
           - section: "Sitzung 1"
             contents:
               - session-1/sitzung-1-01.qmd
+              - session-1/sitzung-1-02.qmd
+              - session-1/sitzung-1-03.qmd
           - section: "Sitzung 2"
             contents:
-              - session-2/sitzung-2-01.qmd
-              - session-2/sitzung-2-02.qmd
+              - session-2/sitzung-2-intro.qmd
+              - session-2/sitzung-2-gierig.qmd
+              - session-2/sitzung-2-nachhaltig.qmd
+              - session-2/sitzung-2-klimagerechtigkeit.qmd
 
 format:
   html:
