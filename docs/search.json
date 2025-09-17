@@ -124,11 +124,46 @@
     "text": "Comments & Suggestions"
   },
   {
+    "objectID": "session-1/sitzung-1-03.html",
+    "href": "session-1/sitzung-1-03.html",
+    "title": "Übung 1-3",
+    "section": "",
+    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und uns mit dem systemdynamischen Weltmodell beschäftigt haben, sollte es nun noch „realer“ werden. Der systemdynamischen Modellierung fehlt dafür der Raum. Akteure (Menschen, Tiere, Pflanzen usw.) agieren und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, oder eine Kuh muss auf der Weide stehen, um Gras zu fressen. Gleichzeitig ist es sehr schwierig, die Handlungen einer Kuh, beispielsweise in Bezug auf das Grasen, in eine mathematische Gleichung zu fassen. Vielmehr folgt sie Regeln (z. B. „das saftigste Gras im Umkreis von einem Meter fressen und dann weiterziehen”).\nSie sollten nun ein einfaches NetLogo-Modell verwenden, um Aussagen über nachhaltiges Verhalten zu treffen."
+  },
+  {
+    "objectID": "session-1/sitzung-1-03.html#im-rucksack",
+    "href": "session-1/sitzung-1-03.html#im-rucksack",
+    "title": "Übung 1-3",
+    "section": "Im Rucksack…",
+    "text": "Im Rucksack…\nDie Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. Regeln müssen von den Akteuren akzeptiert werden oder das gemeinsam definierte Nutzungsziel muss erreicht werden. Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regeln sind die Grundlage für die kollektive Nutzung von Ressourcen. Damit wir keine (wahrscheinlich irreversiblen) Experimente in der realen Welt durchführen müssen, können wir spezielle Modellierungssoftware (NetLogo, Insightmaker…) verwenden, um vereinfachte Modelle zu entwickeln und zu testen."
+  },
+  {
+    "objectID": "session-1/sitzung-1-03.html#möchten-sie-mehr-erfahren",
+    "href": "session-1/sitzung-1-03.html#möchten-sie-mehr-erfahren",
+    "title": "Übung 1-3",
+    "section": "Möchten Sie mehr erfahren?",
+    "text": "Möchten Sie mehr erfahren?\nEin Tutorial für den Einstieg in NetLogo.\nMehr zum Hintergrund der Zusammenarbeit."
+  },
+  {
+    "objectID": "session-1/sitzung-1-02.html",
+    "href": "session-1/sitzung-1-02.html",
+    "title": "Übung 1-2",
+    "section": "",
+    "text": "Nachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, und erfahren haben, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat, werden wir uns mit dem Weltmodell befassen.\nFür die Einheit Nachhaltige Welt sollten Sie etwa 10 Minuten einplanen. {: .notice–success}\nFür eine erste kurze Einführung kann die Online-Programmierumgebung Insightmaker verwendet werden, die eine großartige Möglichkeit bietet, sich mit Systemdynamik auseinanderzusetzen.\nSie können das World 3 Model, also die aktuelle Version des ursprünglichen Weltmodells, online ansehen und mit Hilfe der browsergestützten Software Insightmaker eigene Modellszenarien (Simulationen) durchführen."
+  },
+  {
+    "objectID": "session-1/sitzung-1-02.html#im-rucksack",
+    "href": "session-1/sitzung-1-02.html#im-rucksack",
+    "title": "Übung 1-2",
+    "section": "Im Rucksack…",
+    "text": "Im Rucksack…\nDas Modell von Forrester ist sehr komplex und ohne intensive Arbeit und viel Fachwissen schwer zu verstehen. Trotz der hohen Komplexität basiert das Modell jedoch auf einer extremen Vereinfachung der Realität. Der Grund dafür ist einfach:\nModelle sind immer zweckmäßige Vereinfachungen. {: .notice–info}"
+  },
+  {
     "objectID": "session-1/sitzung-1-01.html",
     "href": "session-1/sitzung-1-01.html",
     "title": "Übung 1-1",
     "section": "",
-    "text": "Diese Sitzung führt mit kurzen, dichten Beispielen in unscharfe Problemstellungen ein. Ziel ist ein pragmatischer Werkzeugkasten: klare Begriffe, lesbare Visualisierungen und nachvollziehbare Tabellen.\n\n\n\nZwischen Beobachtung, Messung und Modell unterscheiden\n\nAmbiguität benennen, kommunizieren, dokumentieren\n\nErgebnisse so darstellen, dass Annahmen sichtbar bleiben",
+    "text": "Los geht’s! Bevor wir uns mit der Modellierung von Nachhaltigkeit befassen, sollten wir zunächst klären, worum es dabei überhaupt geht.",
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
@@ -137,11 +172,11 @@
     ]
   },
   {
-    "objectID": "session-1/sitzung-1-01.html#was-wir-lernen",
-    "href": "session-1/sitzung-1-01.html#was-wir-lernen",
+    "objectID": "session-1/sitzung-1-01.html#von-der-grauen-theorie-zur-konkreten-anwendung",
+    "href": "session-1/sitzung-1-01.html#von-der-grauen-theorie-zur-konkreten-anwendung",
     "title": "Übung 1-1",
-    "section": "",
-    "text": "Diese Sitzung führt mit kurzen, dichten Beispielen in unscharfe Problemstellungen ein. Ziel ist ein pragmatischer Werkzeugkasten: klare Begriffe, lesbare Visualisierungen und nachvollziehbare Tabellen.\n\n\n\nZwischen Beobachtung, Messung und Modell unterscheiden\n\nAmbiguität benennen, kommunizieren, dokumentieren\n\nErgebnisse so darstellen, dass Annahmen sichtbar bleiben",
+    "section": "Von der grauen Theorie zur konkreten Anwendung",
+    "text": "Von der grauen Theorie zur konkreten Anwendung\nNachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, sollten wir uns daran erinnern, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat.\nWenn Sie sich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessieren, kommen Sie zu dieser „Ur-Studie” Limits to Growth  des Club of Rome Sie beschreibt quantitativ und für jedermann verständlich (und damit auch diskussions- und kritikfähig) konkret das von Malthus erstmals erwähnte Nachhaltigkeitsproblem auf der Grundlage weltweiter Wirkungsmechanismen dieser drei Säulen Umwelt, Wirtschaft und Gesellschaft.\nAls Grundlage für den Bericht entwickelte Jay Forrester ein mathematisches Modell, das sogenannte Weltmodell, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu gelangen, wurden alle damals erforderlichen und verfügbaren Daten eingegeben. Da dieses Modell mit Hilfe eines Computers entwickelt wurde, kann es durch Simulationen Vorhersagen treffen. Zusammen mit anderen Wissenschaftlern führten seine Studenten Donella und Dennis Meadows dann ihre Analysen für den Bericht „Die Grenzen des Wachstums” auf diesem Modell durch.",
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
@@ -150,63 +185,11 @@
     ]
   },
   {
-    "objectID": "session-1/sitzung-1-01.html#kurztext-lorem-ipsum",
-    "href": "session-1/sitzung-1-01.html#kurztext-lorem-ipsum",
+    "objectID": "session-1/sitzung-1-01.html#systemdynamik-das-weltmodell-30-jahre-später",
+    "href": "session-1/sitzung-1-01.html#systemdynamik-das-weltmodell-30-jahre-später",
     "title": "Übung 1-1",
-    "section": "Kurztext (Lorem Ipsum)",
-    "text": "Kurztext (Lorem Ipsum)\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in sapien at nisl lacinia porta. Integer pulvinar nibh sed dui hendrerit, vitae dapibus nibh aliquet. Suspendisse potenti. Sed dictum, arcu sed scelerisque congue, arcu ex lacinia augue, ac eleifend neque velit et nibh. Curabitur at leo mi. Nulla facilisi. Mauris ac nisl id diam placerat venenatis. In vitae semper ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.\n\nMerke: Unbestimmtheit ist häufig Information, kein Defekt.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
-  },
-  {
-    "objectID": "session-1/sitzung-1-01.html#bilder-in-spalten",
-    "href": "session-1/sitzung-1-01.html#bilder-in-spalten",
-    "title": "Übung 1-1",
-    "section": "Bilder in Spalten",
-    "text": "Bilder in Spalten\nDie beiden Beispielabbildungen stehen nebeneinander; in Texten kann darauf mit Abbildung 1 (a) bzw. Abbildung 1 (b) verwiesen werden.\n\n\n\n\n\n\n\n\n\n\n\n(a) Sternsinger: Kinder in der Einübung aktiver Inklusion\n\n\n\n\n\n\n\n\n\n\n\n(b) Das Weihnachtsbier: Kinder in der Einübung zentraler Kulturtechniken\n\n\n\n\n\n\n\nAbbildung 1\n\n\n\nTextbezug: Die Gottesfürchtigkeit in Abbildung 1 (a) geht Hand in Hand mit tiefreligiösen Wahrnehmung des Weihnachtsfestes in Abbildung 1 (b). Kinder sind hierbei eine tragende Säule.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
-  },
-  {
-    "objectID": "session-1/sitzung-1-01.html#text-bild-in-spalten",
-    "href": "session-1/sitzung-1-01.html#text-bild-in-spalten",
-    "title": "Übung 1-1",
-    "section": "Text + Bild in Spalten",
-    "text": "Text + Bild in Spalten\n\n\nBefund\nPhasellus sit amet nunc at turpis luctus posuere. Donec ullamcorper, purus nec vulputate dictum, metus ex venenatis justo, at sagittis sem arcu non mi.\nArgumentationslinie: 1. Datenlage knapp → Unsicherheit angeben\n2. Vergleichende Visualisierung\n3. Klarer, knapper Text\nMini-Checkliste: - Annahmen genannt? - Skalen beschrieben? - Grenzen benannt?\n\n\n\n\n\n\n\n\nAbbildung 2",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
-  },
-  {
-    "objectID": "session-1/sitzung-1-01.html#callouts-hinweise",
-    "href": "session-1/sitzung-1-01.html#callouts-hinweise",
-    "title": "Übung 1-1",
-    "section": "Callouts (Hinweise)",
-    "text": "Callouts (Hinweise)\n\n\n\n\n\n\nNote: Notation, Einheiten und Skalen immer explizit nennen.\n\n\n\n\n\n\n\n\n\nWarnung\n\n\n\nAchtung: Ausreißer erst prüfen, dann ggf. begründen und behandeln.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
-  },
-  {
-    "objectID": "session-1/sitzung-1-01.html#weiteres-lorem",
-    "href": "session-1/sitzung-1-01.html#weiteres-lorem",
-    "title": "Übung 1-1",
-    "section": "Weiteres Lorem",
-    "text": "Weiteres Lorem\n\n\n\nMini-Kasten A\nKurzer Text.\n- Punkt 1\n- Punkt 2\n\n\n\nMini-Kasten B\n\n\n\nBayrischer Umweltschutz\n\n\n\n\n\nMini-Kasten C\nHinweis: Spalten können Text, Bilder, Tabellen enthalten.",
+    "section": "Systemdynamik – das Weltmodell 30 Jahre später",
+    "text": "Systemdynamik – das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums ohne reale Experimente quantitativ aufzuzeigen und damit erneut die Notwendigkeit der Ressourcenknappheit und des sinnvollen Umgangs mit Ressourcen aufzuzeigen und zur Diskussion zu stellen.\nForrester hatte nicht nur das Weltmodell entwickelt, sondern in Zusammenarbeit mit Kollegen vom MIT auch das Konzept der grafischen dynamischen Modellierung. Dabei handelt es sich um eine deutliche Vereinfachung gegenüber der herkömmlichen Programmierung, bei der grafische Elemente mit entsprechenden Formeln und Effekten versehen werden.\nDa sowohl das Weltmodell als auch solche Programmierumgebungen kontinuierlich weiterentwickelt wurden, können wir heute auf eine Vielzahl von Softwareprogrammen und Weltmodellen zurückgreifen. Das bekannteste ist wahrscheinlich das World 3-Modell aus dem Jahr 2008. Aufgrund seiner „Berühmtheit” ist es in fast allen Systemdynamik-Programmierumgebungen verfügbar.",
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
