@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "Workshop/sitzung-2-klimagerechtigkeit.html",
-    "href": "Workshop/sitzung-2-klimagerechtigkeit.html",
+    "objectID": "Workshop/sitzung-2-4-klimagerechtigkeit.html",
+    "href": "Workshop/sitzung-2-4-klimagerechtigkeit.html",
     "title": "Klimagerechtigkeit",
     "section": "",
     "text": "Was bedeuten eure Erkenntnisse aus der Arbeit mit den Modellen für die Realität? Lässt sich ein Bezug zum youcoN-Schwerpunktthema Klimagerechtigkeit herstellen?",
@@ -12,8 +12,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-klimagerechtigkeit.html#idee",
-    "href": "Workshop/sitzung-2-klimagerechtigkeit.html#idee",
+    "objectID": "Workshop/sitzung-2-4-klimagerechtigkeit.html#idee",
+    "href": "Workshop/sitzung-2-4-klimagerechtigkeit.html#idee",
     "title": "Klimagerechtigkeit",
     "section": "Idee",
     "text": "Idee\nWir verlassen jetzt die Modellwelt und übertragen Wissen in die reale Welt. Am besten gelingt das in der Diskussion. Sucht euch eine Person oder eine Gruppe zum Austausch.\n\nPlant hier etwa 20 Minuten ein.\n\n\nDenkt und diskutiert zuerst …\n\nwie das Kuh-Modell den globalen Ist-Zustand erklärt.\n\nAnalogien zwischen Modell und Klimagerechtigkeit (wer/was füllt welche Rolle?).\n\nwelche Prognose das Modell für unsere Zukunft nahelegt.\n\nwelches Verhalten dem Modell nach sinnvoll wäre.\n\n\n\nDann diskutiert …\n\nwelche Hürden für Klimagerechtigkeit sich aus dem Modell ableiten lassen.\n\nwelche Lösungen denkbar sind.",
@@ -24,8 +24,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-klimagerechtigkeit.html#im-rucksack",
-    "href": "Workshop/sitzung-2-klimagerechtigkeit.html#im-rucksack",
+    "objectID": "Workshop/sitzung-2-4-klimagerechtigkeit.html#im-rucksack",
+    "href": "Workshop/sitzung-2-4-klimagerechtigkeit.html#im-rucksack",
     "title": "Klimagerechtigkeit",
     "section": "Im Rucksack …",
     "text": "Im Rucksack …",
@@ -36,8 +36,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-klimagerechtigkeit.html#mehr-dazu",
-    "href": "Workshop/sitzung-2-klimagerechtigkeit.html#mehr-dazu",
+    "objectID": "Workshop/sitzung-2-4-klimagerechtigkeit.html#mehr-dazu",
+    "href": "Workshop/sitzung-2-4-klimagerechtigkeit.html#mehr-dazu",
     "title": "Klimagerechtigkeit",
     "section": "Mehr dazu",
     "text": "Mehr dazu\nHier findet ihr ein Modell, das die aktuelle Lage zum Klimawandel (optional auch Covid-19 o. Ä.) vereinfacht darstellt. Es basiert auf T. D. Seeleys Konzept der Honigbienen-Demokratie. Autor Mike Anderson beschreibt die Wirkprinzipien des Modells ClimateWise1_2 ausführlich im Info-Tab.\nDie Übersetzung einiger Einblendungen und die Anpassung an NetLogo 6.2 stammen von mir.",
@@ -48,39 +48,39 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-intro.html",
-    "href": "Workshop/sitzung-2-intro.html",
-    "title": "Einführung",
+    "objectID": "Workshop/sitzung-2-3-gierig.html",
+    "href": "Workshop/sitzung-2-3-gierig.html",
+    "title": "Gierig oder solidarisch",
     "section": "",
-    "text": "Los geht’s! Bevor wir in die Modellierung von Nachhaltigkeit einsteigen, klären wir kurz, worum es überhaupt geht.",
+    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und das systemdynamische Weltmodell betrachtet haben, soll es jetzt noch „realer“ werden. In der systemdynamischen Modellierung fehlt dafür der Raum: Akteure (Menschen, Tiere, Pflanzen etc.) handeln und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, und eine Kuh muss auf der Weide sein, um Gras zu fressen.\nGleichzeitig ist es sehr schwierig, z. B. das Fressverhalten einer Kuh in eine mathematische Gleichung zu pressen. Vielmehr folgt sie Regeln (z. B. „friss das saftigste Gras im Umkreis von einem Meter und wandere weiter“).\nMit einem einfachen NetLogo-Modell sollt ihr nun Aussagen über nachhaltiges Verhalten treffen.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-intro.html#von-grauer-theorie-zur-konkreten-anwendung",
-    "href": "Workshop/sitzung-2-intro.html#von-grauer-theorie-zur-konkreten-anwendung",
-    "title": "Einführung",
-    "section": "Von grauer Theorie zur konkreten Anwendung",
-    "text": "Von grauer Theorie zur konkreten Anwendung\nBei aller Theorie und Politik: Ausgelöst wurde die Debatte vor fast genau 50 Jahren durch ein konkretes Modell.\nWer die wissenschaftliche Basis nachhaltiger Entwicklung verstehen möchte, sollte die grundlegende Studie Limits to Growth des Club of Rome kennen. Sie beschreibt — quantitativ und allgemeinverständlich (und damit offen für Diskussion und Kritik) — das Nachhaltigkeitsproblem, das bereits Malthus benannte, anhand globaler Wirkmechanismen der drei Säulen Umwelt, Wirtschaft und Gesellschaft.\nAls Grundlage entwickelte Jay Forrester ein mathematisches Modell, das Weltmodell, das zentrale Zusammenhänge mit Gleichungen beschreibt. Um konkrete Aussagen zu erhalten, wurden die damals verfügbaren Daten eingespeist. Da das Modell rechnergestützt war, konnten Simulationen Prognosen liefern. Auf dieser Basis führten Donella und Dennis Meadows mit weiteren Wissenschaftler:innen ihre Analysen für Limits to Growth durch.",
+    "objectID": "Workshop/sitzung-2-3-gierig.html#merksätze",
+    "href": "Workshop/sitzung-2-3-gierig.html#merksätze",
+    "title": "Gierig oder solidarisch",
+    "section": "Merksätze",
+    "text": "Merksätze\n\nNutzungsregeln für Ressourcen sollten klar definiert und so einfach wie möglich sein.\nRegeln müssen von den Akteuren akzeptiert werden, oder das gemeinsam definierte Nutzungsziel muss erreicht werden.\nEntwicklung, Akzeptanz und Durchsetzung (→ Slider!) von Regeln sind die Basis kollektiver Ressourcennutzung.\nStatt reale (u. U. irreversible) Experimente zu machen, nutzen wir Modellierungssoftware (NetLogo, InsightMaker, …) für vereinfachte Modelle.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
-    "href": "Workshop/sitzung-2-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
-    "title": "Einführung",
-    "section": "Systemdynamik — das Weltmodell 30 Jahre später",
-    "text": "Systemdynamik — das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums quantitativ zu zeigen — ohne reale Experimente — und so die Notwendigkeit von Ressourcenschonung sichtbar zu machen.\nForrester entwickelte neben dem Weltmodell auch das Konzept der grafischen dynamischen Modellierung (mit Kolleg:innen am MIT). Dieses vereinfacht klassisches Programmieren durch grafische Bausteine, denen Formeln und Wirkungen zugeordnet sind.\nSowohl das Weltmodell als auch entsprechende Umgebungen wurden kontinuierlich weiterentwickelt. Heute steht eine Vielzahl von Software und Weltmodellen zur Verfügung. Das bekannteste ist vermutlich das World3-Modell von 2008, das aufgrund seiner Prominenz in nahezu allen Systemdynamik-Umgebungen verfügbar ist.",
+    "objectID": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
+    "href": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
+    "title": "Gierig oder solidarisch",
+    "section": "Mehr dazu",
+    "text": "Mehr dazu\nEin Tutorial für den Einstieg in NetLogo. Hintergrund zu Cooperation.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   },
   {
@@ -151,44 +151,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-gierig.html",
-    "href": "Workshop/sitzung-2-gierig.html",
-    "title": "Gierig oder solidarisch",
-    "section": "",
-    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und das systemdynamische Weltmodell betrachtet haben, soll es jetzt noch „realer“ werden. In der systemdynamischen Modellierung fehlt dafür der Raum: Akteure (Menschen, Tiere, Pflanzen etc.) handeln und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, und eine Kuh muss auf der Weide sein, um Gras zu fressen.\nGleichzeitig ist es sehr schwierig, z. B. das Fressverhalten einer Kuh in eine mathematische Gleichung zu pressen. Vielmehr folgt sie Regeln (z. B. „friss das saftigste Gras im Umkreis von einem Meter und wandere weiter“).\nMit einem einfachen NetLogo-Modell sollt ihr nun Aussagen über nachhaltiges Verhalten treffen.",
-    "crumbs": [
-      "FAQ",
-      "Workshop",
-      "Gierig oder solidarisch"
-    ]
-  },
-  {
-    "objectID": "Workshop/sitzung-2-gierig.html#merksätze",
-    "href": "Workshop/sitzung-2-gierig.html#merksätze",
-    "title": "Gierig oder solidarisch",
-    "section": "Merksätze",
-    "text": "Merksätze\n\nNutzungsregeln für Ressourcen sollten klar definiert und so einfach wie möglich sein.\nRegeln müssen von den Akteuren akzeptiert werden, oder das gemeinsam definierte Nutzungsziel muss erreicht werden.\nEntwicklung, Akzeptanz und Durchsetzung (→ Slider!) von Regeln sind die Basis kollektiver Ressourcennutzung.\nStatt reale (u. U. irreversible) Experimente zu machen, nutzen wir Modellierungssoftware (NetLogo, InsightMaker, …) für vereinfachte Modelle.",
-    "crumbs": [
-      "FAQ",
-      "Workshop",
-      "Gierig oder solidarisch"
-    ]
-  },
-  {
-    "objectID": "Workshop/sitzung-2-gierig.html#mehr-dazu",
-    "href": "Workshop/sitzung-2-gierig.html#mehr-dazu",
-    "title": "Gierig oder solidarisch",
-    "section": "Mehr dazu",
-    "text": "Mehr dazu\nEin Tutorial für den Einstieg in NetLogo. Hintergrund zu Cooperation.",
-    "crumbs": [
-      "FAQ",
-      "Workshop",
-      "Gierig oder solidarisch"
-    ]
-  },
-  {
-    "objectID": "Workshop/sitzung-2-nachhaltig.html",
-    "href": "Workshop/sitzung-2-nachhaltig.html",
+    "objectID": "Workshop/sitzung-2-2-nachhaltig.html",
+    "href": "Workshop/sitzung-2-2-nachhaltig.html",
     "title": "Nachhaltige Welt",
     "section": "",
     "text": "Nachdem klar ist, dass der Begriff viel Theorie und Politik umfasst — und dass vor fast genau 50 Jahren ein konkretes Modell die Debatte auslöste — schauen wir uns das Weltmodell an.\nFür einen ersten Einstieg eignet sich die Online-Umgebung Insightmaker sehr gut; sie bietet einen niederschwelligen Zugang zur Systemdynamik.\nDas World3-Modell — eine bekannte Version des ursprünglichen Weltmodells — lässt sich direkt im Browser betrachten und in eigenen Szenarien (Simulationen) ausprobieren.",
@@ -199,8 +163,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-nachhaltig.html#im-rucksack",
-    "href": "Workshop/sitzung-2-nachhaltig.html#im-rucksack",
+    "objectID": "Workshop/sitzung-2-2-nachhaltig.html#im-rucksack",
+    "href": "Workshop/sitzung-2-2-nachhaltig.html#im-rucksack",
     "title": "Nachhaltige Welt",
     "section": "Im Rucksack …",
     "text": "Im Rucksack …\n\nModelle sind immer zweckmäßige Vereinfachungen.\n\nDas Modell von Forrester ist komplex und ohne Einarbeitung schwer zu durchdringen. Dennoch bildet es die Realität bewusst stark vereinfacht ab. Beim Modellieren konzentrieren wir uns gezielt auf relevante Faktoren und Beziehungen und lassen anderes weg — nur so kommen wir zu handhabbaren Ergebnissen.",
@@ -211,8 +175,8 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-nachhaltig.html#mehr-dazu",
-    "href": "Workshop/sitzung-2-nachhaltig.html#mehr-dazu",
+    "objectID": "Workshop/sitzung-2-2-nachhaltig.html#mehr-dazu",
+    "href": "Workshop/sitzung-2-2-nachhaltig.html#mehr-dazu",
     "title": "Nachhaltige Welt",
     "section": "Mehr dazu",
     "text": "Mehr dazu\n\nInsightmaker\nAuf Insightmaker findet ihr viele Beispiel-Modelle; ihr könnt auch eigene Modelle erstellen und simulieren.\nKurzvortrag: System Dynamic Modeling.",
@@ -220,6 +184,42 @@
       "FAQ",
       "Workshop",
       "Nachhaltige Welt"
+    ]
+  },
+  {
+    "objectID": "Workshop/sitzung-2-1-intro.html",
+    "href": "Workshop/sitzung-2-1-intro.html",
+    "title": "Einführung",
+    "section": "",
+    "text": "Los geht’s! Bevor wir in die Modellierung von Nachhaltigkeit einsteigen, klären wir kurz, worum es überhaupt geht.",
+    "crumbs": [
+      "FAQ",
+      "Workshop",
+      "Einführung"
+    ]
+  },
+  {
+    "objectID": "Workshop/sitzung-2-1-intro.html#von-grauer-theorie-zur-konkreten-anwendung",
+    "href": "Workshop/sitzung-2-1-intro.html#von-grauer-theorie-zur-konkreten-anwendung",
+    "title": "Einführung",
+    "section": "Von grauer Theorie zur konkreten Anwendung",
+    "text": "Von grauer Theorie zur konkreten Anwendung\nBei aller Theorie und Politik: Ausgelöst wurde die Debatte vor fast genau 50 Jahren durch ein konkretes Modell.\nWer die wissenschaftliche Basis nachhaltiger Entwicklung verstehen möchte, sollte die grundlegende Studie Limits to Growth des Club of Rome kennen. Sie beschreibt — quantitativ und allgemeinverständlich (und damit offen für Diskussion und Kritik) — das Nachhaltigkeitsproblem, das bereits Malthus benannte, anhand globaler Wirkmechanismen der drei Säulen Umwelt, Wirtschaft und Gesellschaft.\nAls Grundlage entwickelte Jay Forrester ein mathematisches Modell, das Weltmodell, das zentrale Zusammenhänge mit Gleichungen beschreibt. Um konkrete Aussagen zu erhalten, wurden die damals verfügbaren Daten eingespeist. Da das Modell rechnergestützt war, konnten Simulationen Prognosen liefern. Auf dieser Basis führten Donella und Dennis Meadows mit weiteren Wissenschaftler:innen ihre Analysen für Limits to Growth durch.",
+    "crumbs": [
+      "FAQ",
+      "Workshop",
+      "Einführung"
+    ]
+  },
+  {
+    "objectID": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
+    "href": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
+    "title": "Einführung",
+    "section": "Systemdynamik — das Weltmodell 30 Jahre später",
+    "text": "Systemdynamik — das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums quantitativ zu zeigen — ohne reale Experimente — und so die Notwendigkeit von Ressourcenschonung sichtbar zu machen.\nForrester entwickelte neben dem Weltmodell auch das Konzept der grafischen dynamischen Modellierung (mit Kolleg:innen am MIT). Dieses vereinfacht klassisches Programmieren durch grafische Bausteine, denen Formeln und Wirkungen zugeordnet sind.\nSowohl das Weltmodell als auch entsprechende Umgebungen wurden kontinuierlich weiterentwickelt. Heute steht eine Vielzahl von Software und Weltmodellen zur Verfügung. Das bekannteste ist vermutlich das World3-Modell von 2008, das aufgrund seiner Prominenz in nahezu allen Systemdynamik-Umgebungen verfügbar ist.",
+    "crumbs": [
+      "FAQ",
+      "Workshop",
+      "Einführung"
     ]
   }
 ]
