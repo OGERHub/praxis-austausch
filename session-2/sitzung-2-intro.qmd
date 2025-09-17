@@ -1,0 +1,43 @@
+---
+title: "Einführung"
+lang: de
+title-block-banner: "/assets/images/00-unit-splash.jpg"
+title-block-banner-caption: 'Foto: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
+#resource-path: ["..", "images", "."]  # darf im übergeordneten Ordner suchen
+
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
+  pdf:
+    pdf-engine: lualatex         
+  docx: default    
+---
+
+Los geht’s! Bevor wir in die *Modellierung von Nachhaltigkeit* einsteigen, klären wir kurz, worum es überhaupt geht.
+
+<!--more-->
+
+### Heutiges Verständnis von Nachhaltigkeit
+
+Das globale *moderne Konzept* von Nachhaltigkeit wurzelt in den 1970er-Jahren. Im [Club of Rome](https://en.wikipedia.org/wiki/Club_of_Rome) wurde ein *„nachhaltiges Weltsystem“* gefordert — der erste moderne Auftritt des Begriffs, der schnell aufgegriffen wurde: So formuliert z. B. 1974 die Kommission des Ökumenischen Rats der Kirchen die Idee einer *„sustainable society“*, und die erste Green Party (in Großbritannien) verabschiedet 1975 ihr *„Manifesto for a Sustainable Society“*. Den prägenden Durchbruch brachte 1987 der Bericht der *World Commission on Environment and Development*, der sog. [Brundtland-Kommission](https://en.wikipedia.org/wiki/Our_Common_Future), mit der Definition von *sustainable development*:
+
+> „[…] a development that satisfies the needs of the present without compromising the ability of future generations to meet their own needs“
+
+Dieser Bericht löste eine weltweite Diskussion aus, die 1992 im *Rio-Erdgipfel* mündete. Bemerkenswert: 114 Staats- und Regierungschefs und unzählige NGOs einigten sich in der *Rio-Erklärung* auf das Prinzip nachhaltiger Entwicklung — bis heute bekannt als *Agenda 21*.
+
+Heute versteht man *nachhaltige Entwicklung* meist als Wechselspiel der *drei Säulen* Umwelt, Wirtschaft und Gesellschaft — und als Bild für notwendige (und unterschiedlich gewichtete) Kompromisse zwischen (scheinbar) gleich wünschenswerten Zielen.
+
+## Von grauer Theorie zur konkreten Anwendung
+
+Bei aller Theorie und Politik: Ausgelöst wurde die Debatte vor fast genau 50 Jahren durch ein **konkretes Modell**.
+
+Wer die wissenschaftliche Basis nachhaltiger Entwicklung verstehen möchte, sollte die grundlegende Studie *[Limits to Growth](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://en.wikipedia.org/wiki/Club_of_Rome) kennen. Sie beschreibt — quantitativ und allgemeinverständlich (und damit offen für Diskussion und Kritik) — das Nachhaltigkeitsproblem, das bereits Malthus benannte, anhand globaler Wirkmechanismen der drei Säulen Umwelt, Wirtschaft und Gesellschaft.
+
+Als Grundlage entwickelte Jay Forrester ein mathematisches **Modell**, das *Weltmodell*, das zentrale Zusammenhänge mit Gleichungen beschreibt. Um konkrete Aussagen zu erhalten, wurden die damals verfügbaren Daten eingespeist. Da das Modell rechnergestützt war, konnten Simulationen Prognosen liefern. Auf dieser Basis führten Donella und Dennis Meadows mit weiteren Wissenschaftler:innen ihre Analysen für *Limits to Growth* durch.
+
+## Systemdynamik — das Weltmodell 30 Jahre später
+
+Die Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums **quantitativ** zu zeigen — ohne reale Experimente — und so die Notwendigkeit von Ressourcenschonung sichtbar zu machen.
+
+Forrester entwickelte neben dem Weltmodell auch das Konzept der grafischen dynamischen Modellierung (mit Kolleg:innen am MIT). Dieses vereinfacht klassisches Programmieren durch grafische Bausteine, denen Formeln und Wirkungen zugeordnet sind.
+
+Sowohl das *Weltmodell* als auch entsprechende Umgebungen wurden kontinuierlich weiterentwickelt. Heute steht eine Vielzahl von Software und Weltmodellen zur Verfügung. Das bekannteste ist vermutlich das *World3-Modell* von 2008, das aufgrund seiner Prominenz in nahezu allen Systemdynamik-Umgebungen verfügbar ist.

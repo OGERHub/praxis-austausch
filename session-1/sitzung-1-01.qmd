@@ -5,14 +5,11 @@ author: Rieke Ammoneit & Chris Reudenbach
 date: "2025-08-30"
 title-block-banner: ../images/freiraeume-sp.jpg
 title-block-banner-color: black 
-#resource-path: ["..", "images", "."]  # darf im übergeordneten Ordner suchen
-
-format-links: [html, pdf, docx]   # Link-Namen müssen den Formatkeys entsprechen
 format:
   html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
   pdf:
-    pdf-engine: lualatex            # Standard-PDF (ohne Extras)
-  docx: default                  # Standard-DOCX (ohne Extras)
+    pdf-engine: lualatex         
+  docx: default    
 ---
 
 

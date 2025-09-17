@@ -1,0 +1,51 @@
+---
+title: "Klimagerechtigkeit"
+lang: de
+title-block-banner: "/assets/images/climate-splash.jpg"
+title-block-banner-caption: 'Foto: **Rieke Ammoneit**'
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
+  pdf:
+    pdf-engine: lualatex         
+  docx: default    
+---
+
+Was bedeuten eure Erkenntnisse aus der Arbeit mit den Modellen für die **Realität**?
+Lässt sich ein Bezug zum youcoN-Schwerpunktthema **Klimagerechtigkeit** herstellen?
+
+<!--more-->
+
+## Idee
+
+Wir verlassen jetzt die Modellwelt und **übertragen Wissen** in die reale Welt. Am besten gelingt das in der **Diskussion**. Sucht euch eine Person oder eine Gruppe zum Austausch.
+
+::: {callout-tip}
+Plant hier etwa **20 Minuten** ein.
+:::
+
+### Denkt und diskutiert zuerst …
+
+- wie das Kuh-Modell den globalen Ist-Zustand erklärt.  
+- **Analogien** zwischen Modell und Klimagerechtigkeit (wer/was füllt welche Rolle?).  
+- welche **Prognose** das Modell für unsere Zukunft nahelegt.  
+- welches **Verhalten** dem Modell nach sinnvoll wäre.
+
+### Dann diskutiert …
+
+- welche **Hürden** für Klimagerechtigkeit sich aus dem Modell ableiten lassen.  
+- welche **Lösungen** denkbar sind.
+
+## Im Rucksack …
+
+::: {callout-note}
+:::
+
+## Mehr dazu
+
+Hier findet ihr ein Modell, das die aktuelle Lage zum **Klimawandel** (optional auch **Covid-19** o. Ä.) vereinfacht darstellt. Es basiert auf T. D. Seeleys Konzept der **[Honigbienen-Demokratie](https://de.wikipedia.org/wiki/Thomas_Dyer_Seeley)**. Autor Mike Anderson beschreibt die Wirkprinzipien des Modells **[*ClimateWise1_2*](https://ccl.northwestern.edu/netlogo/models/community/ClimateWise1_2)** ausführlich im Info-Tab.
+
+Die Übersetzung einiger Einblendungen und die Anpassung an NetLogo 6.2 stammen von mir.
+
+```{=html}
+<iframe src="/assets/misc/ClimateWise1_2.html" width="100%" height="640" style="border:0;"></iframe>
+```
