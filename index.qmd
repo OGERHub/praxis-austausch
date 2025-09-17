@@ -1,5 +1,10 @@
 ---
 title: "PraxisAustausch"
+title-block-banner: images/banner.jpg
+title-block-banner-color: black 
+format-links: [html]   # Link-Namen müssen den Formatkeys entsprechen
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
 ---
 <style>
   body {
@@ -12,7 +17,6 @@ title: "PraxisAustausch"
 
 
 
-![](images/banner.png)
 
 Willkommen zur Kurs-Website **PraxisAustausch** — Didaktik der Physischen Geographie.
 
