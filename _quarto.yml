@@ -73,7 +73,7 @@ format:
     toc: true
     code-copy: true
     code-background: true
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     link-external-filter: '^(?:http:|https:)//(OGERHub\.github\.io/praxis\-austausch|www\.quarto\.org/custom)'
     md-extensions: +fenced_divs+bracketed_spans+link_attributes
