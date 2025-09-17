@@ -1,1 +1,1 @@
-Sitemap: https://your-github-name.github.io/your-repo/sitemap.xml
+Sitemap: https://OGERHub.github.io/praxis-austausch/sitemap.xml
