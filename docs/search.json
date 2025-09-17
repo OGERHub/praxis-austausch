@@ -8,7 +8,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Klimagerechtigkeit"
     ]
   },
@@ -21,7 +20,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Klimagerechtigkeit"
     ]
   },
@@ -34,7 +32,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Klimagerechtigkeit"
     ]
   },
@@ -47,7 +44,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Klimagerechtigkeit"
     ]
   },
@@ -60,7 +56,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Einführung"
     ]
   },
@@ -73,7 +68,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Einführung"
     ]
   },
@@ -86,7 +80,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Einführung"
     ]
   },
@@ -128,104 +121,56 @@
     "href": "session-1/sitzung-1-03.html",
     "title": "Übung 1-3",
     "section": "",
-    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und uns mit dem systemdynamischen Weltmodell beschäftigt haben, sollte es nun noch „realer“ werden. Der systemdynamischen Modellierung fehlt dafür der Raum. Akteure (Menschen, Tiere, Pflanzen usw.) agieren und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, oder eine Kuh muss auf der Weide stehen, um Gras zu fressen. Gleichzeitig ist es sehr schwierig, die Handlungen einer Kuh, beispielsweise in Bezug auf das Grasen, in eine mathematische Gleichung zu fassen. Vielmehr folgt sie Regeln (z. B. „das saftigste Gras im Umkreis von einem Meter fressen und dann weiterziehen”).\nSie sollten nun ein einfaches NetLogo-Modell verwenden, um Aussagen über nachhaltiges Verhalten zu treffen.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-3"
-    ]
+    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und uns mit dem systemdynamischen Weltmodell beschäftigt haben, sollte es nun noch „realer“ werden. Der systemdynamischen Modellierung fehlt dafür der Raum. Akteure (Menschen, Tiere, Pflanzen usw.) agieren und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, oder eine Kuh muss auf der Weide stehen, um Gras zu fressen. Gleichzeitig ist es sehr schwierig, die Handlungen einer Kuh, beispielsweise in Bezug auf das Grasen, in eine mathematische Gleichung zu fassen. Vielmehr folgt sie Regeln (z. B. „das saftigste Gras im Umkreis von einem Meter fressen und dann weiterziehen”).\nSie sollten nun ein einfaches NetLogo-Modell verwenden, um Aussagen über nachhaltiges Verhalten zu treffen."
   },
   {
     "objectID": "session-1/sitzung-1-03.html#im-rucksack",
     "href": "session-1/sitzung-1-03.html#im-rucksack",
     "title": "Übung 1-3",
     "section": "Im Rucksack…",
-    "text": "Im Rucksack…\nDie Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. Regeln müssen von den Akteuren akzeptiert werden oder das gemeinsam definierte Nutzungsziel muss erreicht werden. Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regeln sind die Grundlage für die kollektive Nutzung von Ressourcen. Damit wir keine (wahrscheinlich irreversiblen) Experimente in der realen Welt durchführen müssen, können wir spezielle Modellierungssoftware (NetLogo, Insightmaker…) verwenden, um vereinfachte Modelle zu entwickeln und zu testen.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-3"
-    ]
+    "text": "Im Rucksack…\nDie Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. Regeln müssen von den Akteuren akzeptiert werden oder das gemeinsam definierte Nutzungsziel muss erreicht werden. Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regeln sind die Grundlage für die kollektive Nutzung von Ressourcen. Damit wir keine (wahrscheinlich irreversiblen) Experimente in der realen Welt durchführen müssen, können wir spezielle Modellierungssoftware (NetLogo, Insightmaker…) verwenden, um vereinfachte Modelle zu entwickeln und zu testen."
   },
   {
     "objectID": "session-1/sitzung-1-03.html#möchten-sie-mehr-erfahren",
     "href": "session-1/sitzung-1-03.html#möchten-sie-mehr-erfahren",
     "title": "Übung 1-3",
     "section": "Möchten Sie mehr erfahren?",
-    "text": "Möchten Sie mehr erfahren?\nEin Tutorial für den Einstieg in NetLogo.\nMehr zum Hintergrund der Zusammenarbeit.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-3"
-    ]
+    "text": "Möchten Sie mehr erfahren?\nEin Tutorial für den Einstieg in NetLogo.\nMehr zum Hintergrund der Zusammenarbeit."
   },
   {
     "objectID": "session-1/sitzung-1-02.html",
     "href": "session-1/sitzung-1-02.html",
     "title": "Übung 1-2",
     "section": "",
-    "text": "Nachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, und erfahren haben, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat, werden wir uns mit dem Weltmodell befassen.\nFür die Einheit Nachhaltige Welt sollten Sie etwa 10 Minuten einplanen. {: .notice–success}\nFür eine erste kurze Einführung kann die Online-Programmierumgebung Insightmaker verwendet werden, die eine großartige Möglichkeit bietet, sich mit Systemdynamik auseinanderzusetzen.\nSie können das World 3 Model, also die aktuelle Version des ursprünglichen Weltmodells, online ansehen und mit Hilfe der browsergestützten Software Insightmaker eigene Modellszenarien (Simulationen) durchführen.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-2"
-    ]
+    "text": "Nachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, und erfahren haben, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat, werden wir uns mit dem Weltmodell befassen.\nFür die Einheit Nachhaltige Welt sollten Sie etwa 10 Minuten einplanen. {: .notice–success}\nFür eine erste kurze Einführung kann die Online-Programmierumgebung Insightmaker verwendet werden, die eine großartige Möglichkeit bietet, sich mit Systemdynamik auseinanderzusetzen.\nSie können das World 3 Model, also die aktuelle Version des ursprünglichen Weltmodells, online ansehen und mit Hilfe der browsergestützten Software Insightmaker eigene Modellszenarien (Simulationen) durchführen."
   },
   {
     "objectID": "session-1/sitzung-1-02.html#im-rucksack",
     "href": "session-1/sitzung-1-02.html#im-rucksack",
     "title": "Übung 1-2",
     "section": "Im Rucksack…",
-    "text": "Im Rucksack…\nDas Modell von Forrester ist sehr komplex und ohne intensive Arbeit und viel Fachwissen schwer zu verstehen. Trotz der hohen Komplexität basiert das Modell jedoch auf einer extremen Vereinfachung der Realität. Der Grund dafür ist einfach:\nModelle sind immer zweckmäßige Vereinfachungen. {: .notice–info}",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-2"
-    ]
+    "text": "Im Rucksack…\nDas Modell von Forrester ist sehr komplex und ohne intensive Arbeit und viel Fachwissen schwer zu verstehen. Trotz der hohen Komplexität basiert das Modell jedoch auf einer extremen Vereinfachung der Realität. Der Grund dafür ist einfach:\nModelle sind immer zweckmäßige Vereinfachungen. {: .notice–info}"
   },
   {
     "objectID": "session-1/sitzung-1-01.html",
     "href": "session-1/sitzung-1-01.html",
     "title": "Übung 1-1",
     "section": "",
-    "text": "Los geht’s! Bevor wir uns mit der Modellierung von Nachhaltigkeit befassen, sollten wir zunächst klären, worum es dabei überhaupt geht.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
+    "text": "Los geht’s! Bevor wir uns mit der Modellierung von Nachhaltigkeit befassen, sollten wir zunächst klären, worum es dabei überhaupt geht."
   },
   {
     "objectID": "session-1/sitzung-1-01.html#von-der-grauen-theorie-zur-konkreten-anwendung",
     "href": "session-1/sitzung-1-01.html#von-der-grauen-theorie-zur-konkreten-anwendung",
     "title": "Übung 1-1",
     "section": "Von der grauen Theorie zur konkreten Anwendung",
-    "text": "Von der grauen Theorie zur konkreten Anwendung\nNachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, sollten wir uns daran erinnern, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat.\nWenn Sie sich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessieren, kommen Sie zu dieser „Ur-Studie” Limits to Growth  des Club of Rome Sie beschreibt quantitativ und für jedermann verständlich (und damit auch diskussions- und kritikfähig) konkret das von Malthus erstmals erwähnte Nachhaltigkeitsproblem auf der Grundlage weltweiter Wirkungsmechanismen dieser drei Säulen Umwelt, Wirtschaft und Gesellschaft.\nAls Grundlage für den Bericht entwickelte Jay Forrester ein mathematisches Modell, das sogenannte Weltmodell, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu gelangen, wurden alle damals erforderlichen und verfügbaren Daten eingegeben. Da dieses Modell mit Hilfe eines Computers entwickelt wurde, kann es durch Simulationen Vorhersagen treffen. Zusammen mit anderen Wissenschaftlern führten seine Studenten Donella und Dennis Meadows dann ihre Analysen für den Bericht „Die Grenzen des Wachstums” auf diesem Modell durch.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
+    "text": "Von der grauen Theorie zur konkreten Anwendung\nNachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, sollten wir uns daran erinnern, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat.\nWenn Sie sich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessieren, kommen Sie zu dieser „Ur-Studie” Limits to Growth  des Club of Rome Sie beschreibt quantitativ und für jedermann verständlich (und damit auch diskussions- und kritikfähig) konkret das von Malthus erstmals erwähnte Nachhaltigkeitsproblem auf der Grundlage weltweiter Wirkungsmechanismen dieser drei Säulen Umwelt, Wirtschaft und Gesellschaft.\nAls Grundlage für den Bericht entwickelte Jay Forrester ein mathematisches Modell, das sogenannte Weltmodell, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu gelangen, wurden alle damals erforderlichen und verfügbaren Daten eingegeben. Da dieses Modell mit Hilfe eines Computers entwickelt wurde, kann es durch Simulationen Vorhersagen treffen. Zusammen mit anderen Wissenschaftlern führten seine Studenten Donella und Dennis Meadows dann ihre Analysen für den Bericht „Die Grenzen des Wachstums” auf diesem Modell durch."
   },
   {
     "objectID": "session-1/sitzung-1-01.html#systemdynamik-das-weltmodell-30-jahre-später",
     "href": "session-1/sitzung-1-01.html#systemdynamik-das-weltmodell-30-jahre-später",
     "title": "Übung 1-1",
     "section": "Systemdynamik – das Weltmodell 30 Jahre später",
-    "text": "Systemdynamik – das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums ohne reale Experimente quantitativ aufzuzeigen und damit erneut die Notwendigkeit der Ressourcenknappheit und des sinnvollen Umgangs mit Ressourcen aufzuzeigen und zur Diskussion zu stellen.\nForrester hatte nicht nur das Weltmodell entwickelt, sondern in Zusammenarbeit mit Kollegen vom MIT auch das Konzept der grafischen dynamischen Modellierung. Dabei handelt es sich um eine deutliche Vereinfachung gegenüber der herkömmlichen Programmierung, bei der grafische Elemente mit entsprechenden Formeln und Effekten versehen werden.\nDa sowohl das Weltmodell als auch solche Programmierumgebungen kontinuierlich weiterentwickelt wurden, können wir heute auf eine Vielzahl von Softwareprogrammen und Weltmodellen zurückgreifen. Das bekannteste ist wahrscheinlich das World 3-Modell aus dem Jahr 2008. Aufgrund seiner „Berühmtheit” ist es in fast allen Systemdynamik-Programmierumgebungen verfügbar.",
-    "crumbs": [
-      "FAQ",
-      "Kurs-Sitzungen",
-      "Sitzung 1",
-      "Übung 1-1"
-    ]
+    "text": "Systemdynamik – das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums ohne reale Experimente quantitativ aufzuzeigen und damit erneut die Notwendigkeit der Ressourcenknappheit und des sinnvollen Umgangs mit Ressourcen aufzuzeigen und zur Diskussion zu stellen.\nForrester hatte nicht nur das Weltmodell entwickelt, sondern in Zusammenarbeit mit Kollegen vom MIT auch das Konzept der grafischen dynamischen Modellierung. Dabei handelt es sich um eine deutliche Vereinfachung gegenüber der herkömmlichen Programmierung, bei der grafische Elemente mit entsprechenden Formeln und Effekten versehen werden.\nDa sowohl das Weltmodell als auch solche Programmierumgebungen kontinuierlich weiterentwickelt wurden, können wir heute auf eine Vielzahl von Softwareprogrammen und Weltmodellen zurückgreifen. Das bekannteste ist wahrscheinlich das World 3-Modell aus dem Jahr 2008. Aufgrund seiner „Berühmtheit” ist es in fast allen Systemdynamik-Programmierumgebungen verfügbar."
   },
   {
     "objectID": "base/faq.html",
@@ -255,7 +200,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Gierig oder solidarisch"
     ]
   },
@@ -268,7 +212,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Gierig oder solidarisch"
     ]
   },
@@ -281,7 +224,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Gierig oder solidarisch"
     ]
   },
@@ -294,7 +236,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Nachhaltige Welt"
     ]
   },
@@ -307,7 +248,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Nachhaltige Welt"
     ]
   },
@@ -320,7 +260,6 @@
     "crumbs": [
       "FAQ",
       "Kurs-Sitzungen",
-      "Sitzung 2",
       "Nachhaltige Welt"
     ]
   }
