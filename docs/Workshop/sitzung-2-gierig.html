@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Rieke Ammoneit &amp; Chris Reudenbach">
 
-<title>Übung 1-3 – PraxisAustausch</title>
+<title>Gierig oder solidarisch – PraxisAustausch</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../Workshop/sitzung-2-intro.html" rel="next">
+<link href="../base/impressum.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -73,28 +74,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>
 
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: black;
-      }
-
       .quarto-title-block .quarto-title-banner {
-        color: black;
-background-image: url(../images/freiraeume-sp.jpg);
+        background-image: url(../assets/images/greedy-splash.png);
 background-size: cover;
       }
 </style>
 
 
 <link rel="stylesheet" href="../css/styles.css">
-<meta property="og:title" content="Übung 1-3 – PraxisAustausch">
-<meta property="og:description" content="Netlogo">
-<meta property="og:image" content="https://OGERHub.github.io/praxis-austausch/session-1/images/banner.png">
+<meta property="og:title" content="Gierig oder solidarisch – PraxisAustausch">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://OGERHub.github.io/praxis-austausch/Workshop/images/banner.png">
 <meta property="og:site_name" content="PraxisAustausch">
 </head>
 
@@ -282,7 +272,7 @@ background-size: cover;
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../base/faq.html"> <i class="bi bi-question-square-fill" role="img">
+    <a class="nav-link active" href="../base/faq.html" aria-current="page"> <i class="bi bi-question-square-fill" role="img">
 </i> 
 <span class="menu-text">FAQ</span></a>
   </li>  
@@ -306,7 +296,7 @@ background-size: cover;
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <a class="flex-grow-1 no-decor" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-          <h1 class="quarto-secondary-nav-title">Übung 1-3</h1>
+          <h1 class="quarto-secondary-nav-title">Gierig oder solidarisch</h1>
         </a>     
     </div>
   </nav>
@@ -315,27 +305,14 @@ background-size: cover;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title d-none d-lg-block">Übung 1-3</h1>
-            <p class="subtitle lead">Netlogo</p>
+      <h1 class="title d-none d-lg-block">Gierig oder solidarisch</h1>
                       </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Autor:in</div>
-      <div class="quarto-title-meta-contents">
-               <p>Rieke Ammoneit &amp; Chris Reudenbach </p>
-            </div>
-    </div>
       
-      <div>
-      <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">30. August 2025</p>
-      </div>
-    </div>
     
       
     </div>
@@ -352,59 +329,64 @@ background-size: cover;
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
- <span class="menu-text">Willkommen</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Base</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">PraxisAustausch</span></a>
-  </div>
-</li>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../base/about.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Über diesen Kurs</span></a>
   </div>
 </li>
-      </ul>
-  </li>
-        <li class="px-0"><hr class="sidebar-divider hi "></li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
- <span class="menu-text">Kurs-Sitzungen</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../session-2/sitzung-2-intro.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Einführung</span></a>
+  <a href="../base/faq.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">FAQ</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../session-2/sitzung-2-gierig.html" class="sidebar-item-text sidebar-link">
+  <a href="../base/impressum.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Impressum</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Workshop</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Workshop/sitzung-2-gierig.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Gierig oder solidarisch</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../session-2/sitzung-2-nachhaltig.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Nachhaltige Welt</span></a>
+  <a href="../Workshop/sitzung-2-intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Einführung</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../session-2/sitzung-2-klimagerechtigkeit.html" class="sidebar-item-text sidebar-link">
+  <a href="../Workshop/sitzung-2-klimagerechtigkeit.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Klimagerechtigkeit</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Workshop/sitzung-2-nachhaltig.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Nachhaltige Welt</span></a>
   </div>
 </li>
       </ul>
@@ -419,10 +401,10 @@ background-size: cover;
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul class="collapse">
-  <li><a href="#im-rucksack" id="toc-im-rucksack" class="nav-link active" data-scroll-target="#im-rucksack">Im Rucksack…</a></li>
-  <li><a href="#möchten-sie-mehr-erfahren" id="toc-möchten-sie-mehr-erfahren" class="nav-link" data-scroll-target="#möchten-sie-mehr-erfahren">Möchten Sie mehr erfahren?</a></li>
+  <li><a href="#merksätze" id="toc-merksätze" class="nav-link active" data-scroll-target="#merksätze">Merksätze</a></li>
+  <li><a href="#mehr-dazu" id="toc-mehr-dazu" class="nav-link" data-scroll-target="#mehr-dazu">Mehr dazu</a></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Andere Formate</h2><ul><li><a href="sitzung-1-03.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="sitzung-1-03.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+<div class="quarto-alternate-formats"><h2>Andere Formate</h2><ul><li><a href="sitzung-2-gierig.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="sitzung-2-gierig.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -432,54 +414,61 @@ background-size: cover;
 
 
 
-<p>Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und uns mit dem systemdynamischen Weltmodell beschäftigt haben, sollte es nun noch „realer“ werden. Der systemdynamischen Modellierung fehlt dafür der Raum. Akteure (Menschen, Tiere, Pflanzen usw.) agieren und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, oder eine Kuh muss auf der Weide stehen, um Gras zu fressen. Gleichzeitig ist es sehr schwierig, die Handlungen einer Kuh, beispielsweise in Bezug auf das Grasen, in eine mathematische Gleichung zu fassen. Vielmehr folgt sie Regeln (z. B. „das saftigste Gras im Umkreis von einem Meter fressen und dann weiterziehen”).</p>
-<p>Sie sollten nun ein einfaches NetLogo-Modell verwenden, um Aussagen über nachhaltiges Verhalten zu treffen.</p>
-<!--more-->
-<section id="agentenbasierte-modellierung-eine-interaktive-einführung" class="level3">
-<h3 class="anchored" data-anchor-id="agentenbasierte-modellierung-eine-interaktive-einführung">Agentenbasierte Modellierung – eine interaktive Einführung</h3>
-<p>Lassen Sie uns zunächst ein kurzes Spiel spielen.</p>
+<p>Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und das systemdynamische Weltmodell betrachtet haben, soll es jetzt noch „realer“ werden. In der systemdynamischen Modellierung fehlt dafür der Raum: Akteure (Menschen, Tiere, Pflanzen etc.) handeln und interagieren <strong>im Raum</strong>. Ich muss vor einem Baum stehen, um ihn zu fällen, und eine Kuh muss auf der Weide sein, um Gras zu fressen.</p>
+<p>Gleichzeitig ist es sehr schwierig, z. B. das Fressverhalten einer Kuh in eine mathematische Gleichung zu pressen. Vielmehr folgt sie Regeln (z. B. „friss das saftigste Gras im Umkreis von einem Meter und wandere weiter“).</p>
+<p>Mit einem einfachen <strong>NetLogo-Modell</strong> sollt ihr nun Aussagen über nachhaltiges Verhalten treffen.</p>
+<section id="agentenbasierte-modellierung-ein-interaktiver-einstieg" class="level3">
+<h3 class="anchored" data-anchor-id="agentenbasierte-modellierung-ein-interaktiver-einstieg">Agentenbasierte Modellierung — ein interaktiver Einstieg</h3>
+<p>Zum Aufwärmen spielen wir ein kurzes Spiel.</p>
 </section>
 <section id="die-modellierungssoftware-netlogo" class="level3">
 <h3 class="anchored" data-anchor-id="die-modellierungssoftware-netlogo">Die Modellierungssoftware NetLogo</h3>
-<p>Wir benötigen die Software NetLogo. Wenn NetLogo nicht auf Ihrem Computer installiert ist, können Sie die kostenlose Software in einer für Ihr Betriebssystem geeigneten Version von der <a href="https://ccl.northwestern.edu/netlogo/6.2.0/">Download-Seite</a> herunterladen und installieren. Diese Variante ist besonders sinnvoll, wenn Sie etwas mehr als nur unseren Workshop durchgehen und ausprobieren möchten.</p>
-<p>Wenn Sie mit der lokalen Installation von NetLogo arbeiten, laden Sie bitte die Modelldatei <a href="{{ site.baseurl }}/assets/scripts/sustainableFarming.nlogo">nachnachhaltigesWirtschaften.nlogo</a>{:target=„_blank“} herunter und speichern Sie sie an einem geeigneten Ort. Dann können Sie das Modell mit NetLogo öffnen. {: .notice–info}</p>
-<p>Wenn Sie keine Lust haben, es zu installieren, oder wenn es Probleme mit dem Download gibt, können Sie auch mit der unten eingebetteten Online-Version arbeiten. Sie können das unten stehende Online-Modell herunterladen und mit einer lokalen Installation von NetLogo öffnen, indem Sie auf die Schaltfläche „Export NetLogo” klicken.</p>
-<p>{% include media url=“/assets/misc/sustainableFarming.html” %}</p>
+<p>Wir benötigen <strong>NetLogo</strong>. Falls NetLogo nicht installiert ist, könnt ihr die freie Software in einer passenden Version für euer Betriebssystem über die <a href="https://ccl.northwestern.edu/netlogo/7.0.0/">Download-Seite</a> beziehen. Diese Variante lohnt sich besonders, wenn ihr mehr als unseren Workshop erkunden wollt.</p>
+<div class="{callout-note}">
+<p>Wer lokal mit NetLogo arbeitet, lädt bitte die Modelldatei <a href="../assets/scripts/nachhaltigesWirtschaften.nlogo" target="_blank">nachnachhaltigesWirtschaften.nlogo</a> herunter und speichert sie an einem passenden Ort. Anschließend kann das Modell in NetLogo geöffnet werden.</p>
+</div>
+<p>Wenn ihr keine Installation möchtet oder es Probleme beim Download gibt, könnt ihr auch mit der unten eingebetteten <strong>Online-Version</strong> arbeiten. Über den Button <strong>„Export NetLogo“</strong> lässt sich die Online-Variante herunterladen und später lokal in NetLogo öffnen.</p>
+<iframe src="../assets/misc/sustainableFarming.html" width="100%" height="640" style="border:0;"></iframe>
 </section>
 <section id="netlogo-modell-kooperation" class="level3">
-<h3 class="anchored" data-anchor-id="netlogo-modell-kooperation">NetLogo-Modell „Kooperation”</h3>
-<p>Sie sollten hier etwa 20 Minuten einplanen. {: .notice–success}</p>
-<p>Das Kooperationsmodell und die Anpassung funktionieren beide nach derselben Grundregel:</p>
+<h3 class="anchored" data-anchor-id="netlogo-modell-kooperation">NetLogo-Modell: Kooperation</h3>
+<div class="{callout-tip}">
+<p>Plant hier etwa <strong>20 Minuten</strong> ein.</p>
+</div>
+<p>Das Kooperations-Modell (und die Variation) folgt denselben Grundregeln:</p>
 <ul>
-<li><p>Die Kühe fressen Gras auf der Weide, auf der sie sich befinden, und gewinnen daraus Energie.</p></li>
-<li><p>Wenn sie genug Energie haben, vermehren sie sich.</p></li>
-<li><p>Wenn sie nicht genug Energie haben, sterben sie.</p></li>
-<li><p>Nach jedem Zeitschritt gelangen sie auf eine neue Weide.</p></li>
-<li><p>Das Gras wächst nach; halb ausgewachsenes Gras wächst schneller nach als Gras, das vollständig abgefressen wurde.</p></li>
-<li><p>Es gibt nachhaltige Kühe (kooperative Kühe) und gierige Kühe (gierige Kühe).</p></li>
-<li><p>Die kooperativen Kühe fressen nur hohes Gras und fressen bis zur Hälfte davon.</p></li>
-<li><p>Die gierigen Kühe fressen sowohl hohes als auch halbhohes Gras.</p></li>
+<li><p>Kühe fressen das Gras auf dem Feld, auf dem sie stehen, und gewinnen daraus Energie.</p></li>
+<li><p>Bei genügend Energie vermehren sie sich.</p></li>
+<li><p>Bei zu wenig Energie sterben sie.</p></li>
+<li><p>Nach jedem Zeitschritt ziehen sie auf ein neues Grasfeld weiter.</p></li>
+<li><p>Gras wächst nach; halbhohes Gras schneller als vollständig abgefressenes.</p></li>
+<li><p>Es gibt <strong>nachhaltige</strong> (kooperative) und <strong>gierige</strong> Kühe.</p></li>
+<li><p>Kooperative Kühe fressen nur hohes Gras und davon höchstens die Hälfte.</p></li>
+<li><p>Gierige Kühe fressen sowohl hohes als auch halbhohes Gras.</p></li>
 </ul>
 </section>
-<section id="probieren-sie-es-aus" class="level3">
-<h3 class="anchored" data-anchor-id="probieren-sie-es-aus">Probieren Sie es aus…</h3>
-<p>Jetzt, da Sie das Modell entweder hier auf der Website oder mit Hilfe Ihrer lokalen Installation nutzen können, ist es spannend, ein paar Dinge auszuprobieren.</p>
-<p>Versuchen Sie, die folgenden Fragen zu beantworten, indem Sie die Einstellungen der Modellwelt mit den Schiebereglern anpassen:</p>
+<section id="probiert-es-aus" class="level3">
+<h3 class="anchored" data-anchor-id="probiert-es-aus">Probiert es aus …</h3>
+<p>Nutzen der Slider, um die Modellwelt zu verändern, und beantwortet:</p>
 <ul>
-<li>Wie viele nachhaltig aufgezogene Kühe können auf der Weide leben?</li>
-<li>Wie viele nicht nachhaltig aufgezogene Kühe passen auf die Weide?</li>
-<li>Welche Kühe dominieren kurzfristig und welche Kühe dominieren langfristig in der Mischhaltung?</li>
-<li>Was ist Ihrer Meinung nach das beste Ergebnis? Warum?</li>
+<li>Wie viele <strong>nachhaltig</strong> gehaltene Kühe können auf der Weide leben?</li>
+<li>Wie viele <strong>nicht nachhaltig</strong> gehaltene Kühe passen auf die Weide?</li>
+<li>Wer dominiert <strong>kurzfristig</strong> und wer <strong>langfristig</strong> bei gemischter Haltung?</li>
+<li>Was ist eurer Meinung nach das <strong>beste Ergebnis</strong> – und warum?</li>
 </ul>
 </section>
-<section id="im-rucksack" class="level2">
-<h2 class="anchored" data-anchor-id="im-rucksack">Im Rucksack…</h2>
-<p>Die Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. Regeln müssen von den Akteuren akzeptiert werden oder das gemeinsam definierte Nutzungsziel muss erreicht werden. Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regeln sind die Grundlage für die kollektive Nutzung von Ressourcen. Damit wir keine (wahrscheinlich irreversiblen) Experimente in der realen Welt durchführen müssen, können wir spezielle Modellierungssoftware (NetLogo, Insightmaker…) verwenden, um vereinfachte Modelle zu entwickeln und zu testen.</p>
+<section id="merksätze" class="level2">
+<h2 class="anchored" data-anchor-id="merksätze">Merksätze</h2>
+<ul>
+<li>Nutzungsregeln für Ressourcen sollten klar definiert und so einfach wie möglich sein.</li>
+<li>Regeln müssen von den Akteuren akzeptiert werden, oder das gemeinsam definierte Nutzungsziel muss erreicht werden.</li>
+<li>Entwicklung, Akzeptanz und Durchsetzung (→ Slider!) von Regeln sind die Basis kollektiver Ressourcennutzung.</li>
+<li>Statt reale (u. U. irreversible) Experimente zu machen, nutzen wir Modellierungssoftware (NetLogo, InsightMaker, …) für vereinfachte Modelle.</li>
+</ul>
 </section>
-<section id="möchten-sie-mehr-erfahren" class="level2">
-<h2 class="anchored" data-anchor-id="möchten-sie-mehr-erfahren">Möchten Sie mehr erfahren?</h2>
-<p>Ein <a href="https://ccl.northwestern.edu/netlogo/docs/tutorial1.html">Tutorial</a> für den Einstieg in NetLogo.</p>
-<p>Mehr zum Hintergrund der <a href="http://ccl.northwestern.edu/rp/each/index.shtml">Zusammenarbeit</a>.</p>
+<section id="mehr-dazu" class="level2">
+<h2 class="anchored" data-anchor-id="mehr-dazu">Mehr dazu</h2>
+<p>Ein <a href="https://ccl.northwestern.edu/netlogo/docs/tutorial1.html">Tutorial</a> für den Einstieg in NetLogo. Hintergrund zu <a href="http://ccl.northwestern.edu/rp/each/index.shtml">Cooperation</a>.</p>
 
 
 </section>
@@ -919,6 +908,18 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
   </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../base/impressum.html" class="pagination-link" aria-label="Impressum">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Impressum</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../Workshop/sitzung-2-intro.html" class="pagination-link" aria-label="Einführung">
+        <span class="nav-page-text">Einführung</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
