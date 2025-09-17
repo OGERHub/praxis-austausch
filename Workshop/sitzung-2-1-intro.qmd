@@ -12,9 +12,6 @@ format:
   docx: default    
 ---
 
-Los geht’s! Bevor wir in die *Modellierung von Nachhaltigkeit* einsteigen, klären wir kurz, worum es überhaupt geht.
-
-<!--more-->
 
 ### Heutiges Verständnis von Nachhaltigkeit
 
