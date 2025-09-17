@@ -1,7 +1,7 @@
 ---
 title: "Übung 1-1"
-subtitle: "über das unbestimmte"
-author: Autor
+subtitle: "Grenzen des Wachstums"
+author: Rieke Ammoneit & Chris Reudenbach
 date: "2025-08-30"
 title-block-banner: ../images/freiraeume-sp.jpg
 title-block-banner-color: black 
@@ -15,91 +15,33 @@ format:
   docx: default                  # Standard-DOCX (ohne Extras)
 ---
 
-## Was wir lernen
 
-Diese Sitzung führt mit kurzen, dichten Beispielen in *unscharfe Problemstellungen* ein.
-Ziel ist ein pragmatischer Werkzeugkasten: **klare Begriffe**, **lesbare Visualisierungen** und **nachvollziehbare Tabellen**.
-
-### Lernziele
-- Zwischen **Beobachtung**, **Messung** und **Modell** unterscheiden  
-- Ambiguität benennen, kommunizieren, dokumentieren  
-- Ergebnisse so darstellen, dass **Annahmen** sichtbar bleiben
-
-## Kurztext (Lorem Ipsum)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in sapien at nisl lacinia porta. Integer pulvinar nibh sed dui hendrerit, vitae dapibus nibh aliquet. Suspendisse potenti. Sed dictum, arcu sed scelerisque congue, arcu ex lacinia augue, ac eleifend neque velit et nibh. Curabitur at leo mi. Nulla facilisi. Mauris ac nisl id diam placerat venenatis. In vitae semper ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
-
-> **Merke:** Unbestimmtheit ist häufig **Information**, kein Defekt.
-
-## Bilder in Spalten
-
-Die beiden Beispielabbildungen stehen nebeneinander; in Texten kann darauf mit @fig-a bzw. @fig-b verwiesen werden.
+Los geht's!
+Bevor wir uns mit der *Modellierung von Nachhaltigkeit* befassen, sollten wir zunächst klären, worum es dabei überhaupt geht.
 
 
 
+### Das heutige Verständnis von Nachhaltigkeit
+Das globale *„moderne Konzept”* der Nachhaltigkeit hat seine Wurzeln in den 1970er Jahren. Im [Club of Rome](https://en.wikipedia.org/wiki /Club_of_Rome) wird ein *„nachhaltiges Weltsystem”* gefordert, was die erste moderne Verwendung des Begriffs darstellt, der sich schnell durchsetzt: So formuliert beispielsweise die Kommission des Ökumenischen Rates der Kirchen von 1974 die Idee einer *„nachhaltigen Gesellschaft”*, und die erste Grüne Partei (in Großbritannien) verabschiedet 1975 ihr *„Manifest für eine nachhaltige Gesellschaft”*. Es dauerte jedoch bis 1987, als die *Weltkommission für Umwelt und Entwicklung*, die sogenannte [Brundtland-Kommission](https://en.wikipedia.org/wiki/Our_Common_Future), ihren Bericht veröffentlichte, in dem *„nachhaltige Entwicklung”* wie folgt definiert wurde:
 
-::: {#fig-cols layout-ncol=2}
+  *„[...] eine Entwicklung, die die Bedürfnisse der Gegenwart befriedigt, ohne die Fähigkeit künftiger Generationen zu beeinträchtigen, ihre eigenen Bedürfnisse zu befriedigen”*
 
-![Sternsinger: Kinder in der Einübung aktiver Inklusion](../images/bayern-religion-sp.jpg){#fig-a}
+Dieser Bericht löste eine weltweite Diskussion aus, die schließlich 1992 zum *„Rio-Gipfel”* führte.
+Sensationell trafen sich 114 Staatschefs und unzählige Nichtregierungsorganisationen und einigten sich in der „Rio-Erklärung” auf das Prinzip der nachhaltigen Entwicklung – bis heute bekannt als *„Agenda 21”*.
 
-![Das Weihnachtsbier: Kinder in der Einübung zentraler Kulturtechniken](../images/bayern-religion2-sp.jpg){#fig-b}
+Heute wird diese *nachhaltige Entwicklung* in der Regel als ein interagierender Prozess zwischen den *drei Säulen* Umwelt, Wirtschaft und Gesellschaft verstanden.
 
+## Von der grauen Theorie zur konkreten Anwendung
 
-:::
+Nachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, sollten wir uns daran erinnern, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat.
 
-Textbezug: Die Gottesfürchtigkeit in @fig-a geht Hand in Hand mit tiefreligiösen Wahrnehmung des Weihnachtsfestes in @fig-b. Kinder sind hierbei eine tragende Säule.
+Wenn Sie sich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessieren, kommen Sie zu dieser „Ur-Studie” *[Limits to Growth](https://www.clubofrome.org/publication/the-limits-to-growth/) * des [Club of Rome](https://en.wikipedia.org/wiki/Club_of_Rome) Sie beschreibt quantitativ und für jedermann verständlich (und damit auch diskussions- und kritikfähig) konkret das von Malthus erstmals erwähnte Nachhaltigkeitsproblem auf der Grundlage weltweiter Wirkungsmechanismen dieser drei Säulen Umwelt, Wirtschaft und Gesellschaft.
 
-## Text + Bild in Spalten
+Als Grundlage für den Bericht entwickelte Jay Forrester ein mathematisches **Modell**, das sogenannte *Weltmodell*, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu gelangen, wurden alle damals erforderlichen und verfügbaren Daten eingegeben. Da dieses Modell mit Hilfe eines Computers entwickelt wurde, kann es durch Simulationen Vorhersagen treffen. Zusammen mit anderen Wissenschaftlern führten seine Studenten Donella und Dennis Meadows dann ihre Analysen für den Bericht „Die Grenzen des Wachstums” auf diesem Modell durch.
 
-::: {.grid}
-::: {.g-col-7}
-### Befund
-Phasellus sit amet nunc at turpis luctus posuere. Donec ullamcorper, purus nec vulputate dictum, metus ex venenatis justo, at sagittis sem arcu non mi.  
-**Argumentationslinie:**
-1. Datenlage knapp → Unsicherheit angeben  
-2. Vergleichende Visualisierung  
-3. Klarer, knapper Text
+## Systemdynamik – das Weltmodell 30 Jahre später
+Die Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums ohne reale Experimente quantitativ aufzuzeigen und damit erneut die Notwendigkeit der Ressourcenknappheit und des sinnvollen Umgangs mit Ressourcen aufzuzeigen und zur Diskussion zu stellen.
 
-**Mini-Checkliste:**
-- Annahmen genannt?
-- Skalen beschrieben?
-- Grenzen benannt?
-:::
-::: {.g-col-5}
-![](../images/whereto.png){#fig-skizze}
-:::
-:::
+Forrester hatte nicht nur das Weltmodell entwickelt, sondern in Zusammenarbeit mit Kollegen vom MIT auch das Konzept der grafischen dynamischen Modellierung. Dabei handelt es sich um eine deutliche Vereinfachung gegenüber der herkömmlichen Programmierung, bei der grafische Elemente mit entsprechenden Formeln und Effekten versehen werden.
 
-
-## Callouts (Hinweise)
-
-::: {.callout-note appearance="minimal"}
-**Note:** Notation, Einheiten und Skalen **immer** explizit nennen.
-:::
-
-::: {.callout-warning}
-**Achtung:** Ausreißer erst **prüfen**, dann ggf. begründen und behandeln.
-:::
-
-
-
-
-
-## Weiteres Lorem
-
-::: {.columns .clean-columns}
-::: {.column width="33%"}
-#### Mini-Kasten A
-Kurzer Text.  
-- Punkt 1  
-- Punkt 2
-:::
-::: {.column width="33%"}
-#### Mini-Kasten B
-![Bayrischer Umweltschutz](../images/bayern-umweltschutz-sp.jpg)
-:::
-::: {.column width="33%"}
-#### Mini-Kasten C
-**Hinweis:** Spalten können Text, Bilder, Tabellen enthalten.
-:::
-:::
+Da sowohl das *Weltmodell* als auch solche Programmierumgebungen kontinuierlich weiterentwickelt wurden, können wir heute auf eine Vielzahl von Softwareprogrammen und *Weltmodellen* zurückgreifen. Das bekannteste ist wahrscheinlich das *World 3-Modell* aus dem Jahr 2008. Aufgrund seiner „Berühmtheit” ist es in fast allen Systemdynamik-Programmierumgebungen verfügbar.

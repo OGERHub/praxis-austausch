@@ -1,0 +1,78 @@
+---
+title: "Übung 1-3"
+subtitle: "Netlogo"
+author: Rieke Ammoneit & Chris Reudenbach
+date: "2025-08-30"
+title-block-banner: ../images/freiraeume-sp.jpg
+title-block-banner-color: black 
+#resource-path: ["..", "images", "."]  # darf im übergeordneten Ordner suchen
+
+format-links: [html, pdf, docx]   # Link-Namen müssen den Formatkeys entsprechen
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
+  pdf:
+    pdf-engine: lualatex            # Standard-PDF (ohne Extras)
+  docx: default                  # Standard-DOCX (ohne Extras)
+---
+
+Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und uns mit dem systemdynamischen Weltmodell beschäftigt haben, sollte es nun noch „realer“ werden. Der systemdynamischen Modellierung fehlt dafür der Raum. Akteure (Menschen, Tiere, Pflanzen usw.) agieren und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, oder eine Kuh muss auf der Weide stehen, um Gras zu fressen.
+Gleichzeitig ist es sehr schwierig, die Handlungen einer Kuh, beispielsweise in Bezug auf das Grasen, in eine mathematische Gleichung zu fassen. Vielmehr folgt sie Regeln (z. B. „das saftigste Gras im Umkreis von einem Meter fressen und dann weiterziehen”).
+
+Sie sollten nun ein einfaches NetLogo-Modell verwenden, um Aussagen über nachhaltiges Verhalten zu treffen.
+
+<!--more-->
+
+### Agentenbasierte Modellierung – eine interaktive Einführung
+Lassen Sie uns zunächst ein kurzes Spiel spielen.
+
+### Die Modellierungssoftware NetLogo
+Wir benötigen die Software NetLogo. Wenn NetLogo nicht auf Ihrem Computer installiert ist, können Sie die kostenlose Software in einer für Ihr Betriebssystem geeigneten Version von der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Diese Variante ist besonders sinnvoll, wenn Sie etwas mehr als nur unseren Workshop durchgehen und ausprobieren möchten.
+
+Wenn Sie mit der lokalen Installation von NetLogo arbeiten, laden Sie bitte die Modelldatei [nachnachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/sustainableFarming.nlogo){:target=„_blank“} herunter und speichern Sie sie an einem geeigneten Ort. Dann können Sie das Modell mit NetLogo öffnen.
+{: .notice--info}
+
+
+Wenn Sie keine Lust haben, es zu installieren, oder wenn es Probleme mit dem Download gibt, können Sie auch mit der unten eingebetteten Online-Version arbeiten. Sie können das unten stehende Online-Modell herunterladen und mit einer lokalen Installation von NetLogo öffnen, indem Sie auf die Schaltfläche „Export NetLogo” klicken.
+
+{% include media url="/assets/misc/sustainableFarming.html" %}
+
+### NetLogo-Modell „Kooperation”
+Sie sollten hier etwa 20 Minuten einplanen.
+{: .notice--success}
+
+Das Kooperationsmodell und die Anpassung funktionieren beide nach derselben Grundregel:
+
+* Die Kühe fressen Gras auf der Weide, auf der sie sich befinden, und gewinnen daraus Energie.
+* Wenn sie genug Energie haben, vermehren sie sich.
+* Wenn sie nicht genug Energie haben, sterben sie.
+* Nach jedem Zeitschritt gelangen sie auf eine neue Weide.
+* Das Gras wächst nach; halb ausgewachsenes Gras wächst schneller nach als Gras, das vollständig abgefressen wurde.
+
+* Es gibt nachhaltige Kühe (kooperative Kühe) und gierige Kühe (gierige Kühe).
+* Die kooperativen Kühe fressen nur hohes Gras und fressen bis zur Hälfte davon.
+* Die gierigen Kühe fressen sowohl hohes als auch halbhohes Gras.
+
+### Probieren Sie es aus...
+Jetzt, da Sie das Modell entweder hier auf der Website oder mit Hilfe Ihrer lokalen Installation nutzen können, ist es spannend, ein paar Dinge auszuprobieren.
+
+Versuchen Sie, die folgenden Fragen zu beantworten, indem Sie die Einstellungen der Modellwelt mit den Schiebereglern anpassen:
+
+
+
+* Wie viele nachhaltig aufgezogene Kühe können auf der Weide leben?
+* Wie viele nicht nachhaltig aufgezogene Kühe passen auf die Weide?
+* Welche Kühe dominieren kurzfristig und welche Kühe dominieren langfristig in der Mischhaltung?
+* Was ist Ihrer Meinung nach das beste Ergebnis? Warum?
+
+
+## Im Rucksack...
+
+Die Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein.
+Regeln müssen von den Akteuren akzeptiert werden oder das gemeinsam definierte Nutzungsziel muss erreicht werden.
+Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regeln sind die Grundlage für die kollektive Nutzung von Ressourcen.
+Damit wir keine (wahrscheinlich irreversiblen) Experimente in der realen Welt durchführen müssen, können wir spezielle Modellierungssoftware (NetLogo, Insightmaker...) verwenden, um vereinfachte Modelle zu entwickeln und zu testen.
+
+## Möchten Sie mehr erfahren?
+Ein [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) für den Einstieg in NetLogo.
+
+Mehr zum Hintergrund der [Zusammenarbeit](http://ccl.northwestern.edu/rp/each/index.shtml).

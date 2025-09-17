@@ -1,0 +1,39 @@
+---
+title: "Übung 1-2"
+subtitle: "World Model"
+author: Rieke Ammoneit & Chris Reudenbach
+date: "2025-08-30"
+title-block-banner: ../images/freiraeume-sp.jpg
+title-block-banner-color: black 
+#resource-path: ["..", "images", "."]  # darf im übergeordneten Ordner suchen
+
+format-links: [html, pdf, docx]   # Link-Namen müssen den Formatkeys entsprechen
+format:
+  html: { toc: true, toc-depth: 2, code-fold: true, number-sections: false }
+  pdf:
+    pdf-engine: lualatex            # Standard-PDF (ohne Extras)
+  docx: default                  # Standard-DOCX (ohne Extras)
+---
+
+Nachdem wir nun festgestellt haben, dass der Begriff viel Theorie und Politik beinhaltet, und erfahren haben, dass ein konkretes Modell diese Diskussion vor fast genau 50 Jahren ausgelöst hat, werden wir uns mit dem *Weltmodell* befassen.
+<!--more-->
+
+Für die Einheit *Nachhaltige Welt* sollten Sie etwa 10 Minuten einplanen.
+{: .notice--success}
+
+Für eine erste kurze Einführung kann die Online-Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Möglichkeit bietet, sich mit Systemdynamik auseinanderzusetzen.
+
+Sie können das [World 3 Model](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), also die aktuelle Version des ursprünglichen Weltmodells, online ansehen und mit Hilfe der browsergestützten Software Insightmaker eigene Modellszenarien (Simulationen) durchführen.
+
+### Probieren Sie es aus...
+
+* Finden Sie heraus, wann der Wendepunkt im Wohlstandsniveau vorhergesagt wird.
+* Variieren Sie den Referenzzeitraum mit den Reglern.
+* Schauen Sie sich das Modell an – was ist Ihr Eindruck? Wie wirkt es auf Sie?
+
+## Im Rucksack...
+
+Das Modell von Forrester ist sehr komplex und ohne intensive Arbeit und viel Fachwissen schwer zu verstehen. Trotz der hohen Komplexität basiert das Modell jedoch auf einer extremen Vereinfachung der Realität. Der Grund dafür ist einfach:
+
+Modelle sind immer zweckmäßige Vereinfachungen.
+{: .notice--info}
