@@ -2,17 +2,17 @@
 # Fülle in Ruhe aus
 
 # --- Kurs Infos
-course_code: "KURS-123"                                      # Potentieller Code LV-yyyy-yyy wird nur auf der Index Seite eingetragen
-contact_email: "name@uni.de"                                 # kann abweichend oder gleich zu Impressum sein in der Regel Dozen*in wird nur auf der Index Seite eingetragen    
-site_title: "your title"                                     # Name der Seite in der Titelleiste
-org_name: "your organisation"                                # erscheint im Gegensatz zu chair_name etc im Footer  Header usw            
-site_url: "https://your-github-name.github.io/your-repo"
-repo_url: "https://github.com/your-github-name/your-repo"    
+course_code: "PraxisAustausch"                                      # Potentieller Code LV-yyyy-yyy wird nur auf der Index Seite eingetragen
+contact_email: "rammoneit@uni-koeln.de"                                 # kann abweichend oder gleich zu Impressum sein in der Regel Dozen*in wird nur auf der Index Seite eingetragen    
+site_title: "PraxisAustausch"                                     # Name der Seite in der Titelleiste
+org_name: "Didaktik der Physischen Geographie"                                # erscheint im Gegensatz zu chair_name etc im Footer  Header usw            
+site_url: "https://OGERHub.github.io/praxis-austausch"
+repo_url: "https://github.com/OGERHub/praxis-austausch"    
 logo_path: "images/your-logo.png"                            # Logo obere Ecke Navbar
 
 # Navbar rechts
-portal_text: ""                     # z.B. Interne Lernplattform
-portal_url: ""                      # https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
+portal_text: "ILIAS"                     # z.B. Interne Lernplattform
+portal_url: "https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de"                      # https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
 
 # Footer / Impressum-Link im Footer
 impressum_href: "base/impressum.qmd"   # Script macht automatisch .html daraus
@@ -31,14 +31,14 @@ brand_font: "system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto
 dark_theme: "yes"             # "yes" oder "no"
 
 # --- Impressum / Datenschutz ---
-responsible_name: ""                                        # z. B. "Prof. Dr. …"
-responsible_address: " Zeile1 <br/> Zeile 2 <br/> Zeile 3"  # HTML-Zeilenumbruch mit <br />
-responsible_email: "responsible@uni.de"                     # email der Impressum verantworlichen Person
-uni_name: ""                                                # Name der Uni/Institution               
-uni_url: ""                                                 # Hompage der Uni/Institution
-institute_name: ""                                          # Name der Abteilung/Institut/Unterorganisation
-institute_url: ""                                           # Hompage der Abteilung/Institut/Unterorganisation
-chair_name: ""                                              # Name der AG
-chair_url: ""                                               # Hompage der AG
-imprint_url: ""                                             # offizielles Impressum der Organisation
+responsible_name: "Jun.-Prof. Dr. Rieke Ammoneit"                                        # z. B. "Prof. Dr. …"
+responsible_address: " Gronewaldstr. 2 <br/> 50931 Köln"  # HTML-Zeilenumbruch mit <br />
+responsible_email: "rammoneit@uni-koeln.de"                     # email der Impressum verantworlichen Person
+uni_name: "Universität zu Köln"                                                # Name der Uni/Institution               
+uni_url: "https://uni-koeln.de/"                                                 # Hompage der Uni/Institution
+institute_name: "Institut für Geographiedidaktik"                                          # Name der Abteilung/Institut/Unterorganisation
+institute_url: "https://geodidaktik.uni-koeln.de/home"                                           # Hompage der Abteilung/Institut/Unterorganisation
+chair_name: "Geographiedidaktik mit dem Schwerpunkt Physische Geographie"                                              # Name der AG
+chair_url: "https://geodidaktik.uni-koeln.de/mitarbeiter-innen/hochschullehrer-innen/jun-prof-dr-rieke-ammoneit"                                               # Hompage der AG
+imprint_url: "https://uni-koeln.de/impressum"                                             # offizielles Impressum der Organisation
 

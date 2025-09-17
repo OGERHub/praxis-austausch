@@ -1,5 +1,5 @@
 ---
-title: "{{site_title}}"
+title: "PraxisAustausch"
 ---
 <style>
   body {
@@ -14,7 +14,7 @@ title: "{{site_title}}"
 
 ![](images/banner.png)
 
-Willkommen zur Kurs-Website **{{course_code}}** — {{org_name}}.
+Willkommen zur Kurs-Website **PraxisAustausch** — Didaktik der Physischen Geographie.
 
 
 
