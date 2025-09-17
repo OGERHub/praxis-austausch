@@ -3,7 +3,7 @@
 
 # --- Kurs Infos
 course_code: "PraxisAustausch"                                      # Potentieller Code LV-yyyy-yyy wird nur auf der Index Seite eingetragen
-contact_email: "rammoneit@uni-koeln.de"                                 # kann abweichend oder gleich zu Impressum sein in der Regel Dozen*in wird nur auf der Index Seite eingetragen    
+contact_email: "rammonei@uni-koeln.de"                                 # kann abweichend oder gleich zu Impressum sein in der Regel Dozen*in wird nur auf der Index Seite eingetragen    
 site_title: "PraxisAustausch"                                     # Name der Seite in der Titelleiste
 org_name: "Didaktik der Physischen Geographie"                                # erscheint im Gegensatz zu chair_name etc im Footer  Header usw            
 site_url: "https://OGERHub.github.io/praxis-austausch"
@@ -20,7 +20,7 @@ impressum_href: "base/impressum.qmd"   # Script macht automatisch .html daraus
 # --- Branding ---
 # --- Vanilla = original theme ---
 brand_hex: ""          # leer lassen
-brand_hex_dark: ""     # leer lassen
+brand_hex_dark: "yes"     # leer lassen
 
 # --- Auskommentieren um Branding Color zu aktivieren 
 #brand_hex: "#008BFF"             # Light
@@ -33,7 +33,7 @@ dark_theme: "yes"             # "yes" oder "no"
 # --- Impressum / Datenschutz ---
 responsible_name: "Jun.-Prof. Dr. Rieke Ammoneit"                                        # z. B. "Prof. Dr. …"
 responsible_address: " Gronewaldstr. 2 <br/> 50931 Köln"  # HTML-Zeilenumbruch mit <br />
-responsible_email: "rammoneit@uni-koeln.de"                     # email der Impressum verantworlichen Person
+responsible_email: "rammonei@uni-koeln.de"                     # email der Impressum verantworlichen Person
 uni_name: "Universität zu Köln"                                                # Name der Uni/Institution               
 uni_url: "https://uni-koeln.de/"                                                 # Hompage der Uni/Institution
 institute_name: "Institut für Geographiedidaktik"                                          # Name der Abteilung/Institut/Unterorganisation
