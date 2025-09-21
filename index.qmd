@@ -23,4 +23,14 @@ Willkommen zur Kurs-Website **PraxisAustausch** — Didaktik der Physischen Geog
 Dieser Kurs umfasst das Material für den Workshop *Mensch & Umwelt: Gier oder Gemeinsinn? Digitale Tools und Szenarien zum Nachdenken über Ressourcen, Verantwortung und Zukunft.*, der im Rahmen des [Theorie-Praxis-Dialogs](https://geographie.uni-koeln.de/sites/geographie/user_upload/Kley/Flyer_Theorie-Praxis-Dialog_2025_Anmeldeformular.pdf) stattfindet. 
 
 
+## Ziele
+
+Der Workshop soll:
+
+* in die grundlegende Bedeutung von Simulationsmodellen für den Nachhaltigkeitsdiskurs einführen,
+* einen ersten Kontakt mit agentenbasierter Modellierung ermöglichen,
+* Wissen über freie Software insbesondere NetLogo vermitteln,
+* Spaß am Ausprobieren bereiten
+
+
 
