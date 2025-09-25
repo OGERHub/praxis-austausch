@@ -48,54 +48,40 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-3-gierig.html",
-    "href": "Workshop/sitzung-2-3-gierig.html",
-    "title": "Gierig oder solidarisch",
+    "objectID": "Workshop/sitzung-2-1-intro.html",
+    "href": "Workshop/sitzung-2-1-intro.html",
+    "title": "Einführung",
     "section": "",
-    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und das systemdynamische Weltmodell betrachtet haben, soll es jetzt noch „realer“ werden. In der systemdynamischen Modellierung fehlt dafür der Raum: Akteure (Menschen, Tiere, Pflanzen etc.) handeln und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, und eine Kuh muss auf der Weide sein, um Gras zu fressen.\nGleichzeitig ist es sehr schwierig, z. B. das Fressverhalten einer Kuh in eine mathematische Gleichung zu pressen. Vielmehr folgt sie Regeln (z. B. „friss das saftigste Gras im Umkreis von einem Meter und wandere weiter“).\nMit einem einfachen NetLogo-Modell sollt ihr nun Aussagen über nachhaltiges Verhalten treffen.",
+    "text": "In den frühen 70ern wurde der Ressourcenverbrauch unseren Wirtschaftsmodells mit der grundlegende Studie Limits to Growth des Club of Rome erschütternd in Frage gestellt. Sie begründet unser modernes globales Konzept von Nachhaltigkeit. Im Club of Rome wurde ein „nachhaltiges Weltsystem“ gefordert — der erste moderne Auftritt des Begriffs, der schnell aufgegriffen wurde: So formuliert z. B. 1974 die Kommission des Ökumenischen Rats der Kirchen die Idee einer „sustainable society“, und die erste Green Party (in Großbritannien) verabschiedet 1975 ihr „Manifesto for a Sustainable Society“. Den prägenden Durchbruch brachte 1987 der Bericht der World Commission on Environment and Development, der sog. Brundtland-Kommission, mit der Definition von sustainable development:\n\n„[…] a development that satisfies the needs of the present without compromising the ability of future generations to meet their own needs“\n\nDieser Bericht löste eine weltweite Diskussion aus, die 1992 im Rio-Erdgipfel mündete. Bemerkenswert: 114 Staats- und Regierungschefs und unzählige NGOs einigten sich in der Rio-Erklärung auf das Prinzip nachhaltiger Entwicklung — bis heute bekannt als Agenda 21.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Gierig oder solidarisch"
+      "Einführung"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-3-gierig.html#merksätze",
-    "href": "Workshop/sitzung-2-3-gierig.html#merksätze",
-    "title": "Gierig oder solidarisch",
-    "section": "Merksätze",
-    "text": "Merksätze\n\nNutzungsregeln für Ressourcen sollten klar definiert und so einfach wie möglich sein.\nRegeln müssen von den Akteuren akzeptiert werden, oder das gemeinsam definierte Nutzungsziel muss erreicht werden.\nEntwicklung, Akzeptanz und Durchsetzung (→ Slider!) von Regeln sind die Basis kollektiver Ressourcennutzung.\nStatt reale (u. U. irreversible) Experimente zu machen, nutzen wir Modellierungssoftware (NetLogo, InsightMaker, …) für vereinfachte Modelle.",
+    "objectID": "Workshop/sitzung-2-1-intro.html#die-rolle-von-modellen-im-diskurs",
+    "href": "Workshop/sitzung-2-1-intro.html#die-rolle-von-modellen-im-diskurs",
+    "title": "Einführung",
+    "section": "Die Rolle von Modellen im Diskurs",
+    "text": "Die Rolle von Modellen im Diskurs\nBei aller Theorie und Politik: Ausgelöst wurde die Debatte vor fast genau 50 Jahren durch ein konkretes Modell.\nGrundlage der Erkenntnisse über die Begrenztheit des Wachstums ist ein mathematisches Modell, das Weltmodell, von Jay Forrester das zentrale Zusammenhänge mit Gleichungen beschreibt. Um konkrete Aussagen zu erhalten, wurden die damals verfügbaren Daten eingespeist. Da das Modell rechnergestützt war, konnten Simulationen Prognosen liefern. Auf dieser Basis führten Donella und Dennis Meadows mit weiteren Wissenschaftler:innen ihre Analysen für Limits to Growth durch.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Gierig oder solidarisch"
+      "Einführung"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
-    "href": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
-    "title": "Gierig oder solidarisch",
-    "section": "Mehr dazu",
-    "text": "Mehr dazu\nEin Tutorial für den Einstieg in NetLogo. Hintergrund zu Cooperation.",
+    "objectID": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
+    "href": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
+    "title": "Einführung",
+    "section": "Systemdynamik — das Weltmodell 30 Jahre später",
+    "text": "Systemdynamik — das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums quantitativ zu zeigen — ohne reale Experimente — und so die Notwendigkeit von Ressourcenschonung sichtbar zu machen.\nForrester entwickelte neben dem Weltmodell auch das Konzept der grafischen dynamischen Modellierung (mit Kolleg:innen am MIT). Dieses vereinfacht klassisches Programmieren durch grafische Bausteine, denen Formeln und Wirkungen zugeordnet sind.\nSowohl das Weltmodell als auch entsprechende Umgebungen wurden kontinuierlich weiterentwickelt. Heute steht eine Vielzahl von Software und Weltmodellen zur Verfügung. Das bekannteste ist vermutlich das World3-Modell von 2008, das aufgrund seiner Prominenz in nahezu allen Systemdynamik-Umgebungen verfügbar ist.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Gierig oder solidarisch"
+      "Einführung"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PraxisAustausch",
-    "section": "",
-    "text": "Willkommen zur Kurs-Website PraxisAustausch — Didaktik der Physischen Geographie, Universität zu Köln.\nDieser Kurs umfasst das Material für den Workshop Mensch & Umwelt: Gier oder Gemeinsinn? Digitale Tools und Szenarien zum Nachdenken über Ressourcen, Verantwortung und Zukunft., der im Rahmen des Theorie-Praxis-Dialogs stattfindet."
-  },
-  {
-    "objectID": "index.html#ziele",
-    "href": "index.html#ziele",
-    "title": "PraxisAustausch",
-    "section": "Ziele",
-    "text": "Ziele\nDer Workshop soll:\n\nin die grundlegende Bedeutung von Simulationsmodellen für den Nachhaltigkeitsdiskurs einführen,\neinen ersten Kontakt mit agentenbasierter Modellierung ermöglichen,\nWissen über freie Software insbesondere NetLogo vermitteln,\nSpaß am Ausprobieren bereiten"
   },
   {
     "objectID": "base/impressum.html#content-responsibility",
@@ -146,6 +132,20 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PraxisAustausch",
+    "section": "",
+    "text": "Willkommen zur Kurs-Website PraxisAustausch — Didaktik der Physischen Geographie, Universität zu Köln.\nDieser Kurs umfasst das Material für den Workshop Mensch & Umwelt: Gier oder Gemeinsinn? Digitale Tools und Szenarien zum Nachdenken über Ressourcen, Verantwortung und Zukunft., der im Rahmen des Theorie-Praxis-Dialogs stattfindet."
+  },
+  {
+    "objectID": "index.html#ziele",
+    "href": "index.html#ziele",
+    "title": "PraxisAustausch",
+    "section": "Ziele",
+    "text": "Ziele\nDer Workshop soll:\n\nin die grundlegende Bedeutung von Simulationsmodellen für den Nachhaltigkeitsdiskurs einführen,\neinen ersten Kontakt mit agentenbasierter Modellierung ermöglichen,\nWissen über freie Software insbesondere NetLogo vermitteln,\nSpaß am Ausprobieren bereiten"
+  },
+  {
     "objectID": "base/about.html",
     "href": "base/about.html",
     "title": "Über…",
@@ -194,39 +194,39 @@
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-1-intro.html",
-    "href": "Workshop/sitzung-2-1-intro.html",
-    "title": "Einführung",
+    "objectID": "Workshop/sitzung-2-3-gierig.html",
+    "href": "Workshop/sitzung-2-3-gierig.html",
+    "title": "Gierig oder solidarisch",
     "section": "",
-    "text": "In den frühen 70ern wurde die Nachhaltigkeit unseren Wirtschaftsmodells mit der grundlegende Studie Limits to Growth des Club of Rome erschütternd in Frage gestellt. Sie begründet unser modernes globales Konzept von Nachhaltigkeit. Im Club of Rome wurde ein „nachhaltiges Weltsystem“ gefordert — der erste moderne Auftritt des Begriffs, der schnell aufgegriffen wurde: So formuliert z. B. 1974 die Kommission des Ökumenischen Rats der Kirchen die Idee einer „sustainable society“, und die erste Green Party (in Großbritannien) verabschiedet 1975 ihr „Manifesto for a Sustainable Society“. Den prägenden Durchbruch brachte 1987 der Bericht der World Commission on Environment and Development, der sog. Brundtland-Kommission, mit der Definition von sustainable development:\n\n„[…] a development that satisfies the needs of the present without compromising the ability of future generations to meet their own needs“\n\nDieser Bericht löste eine weltweite Diskussion aus, die 1992 im Rio-Erdgipfel mündete. Bemerkenswert: 114 Staats- und Regierungschefs und unzählige NGOs einigten sich in der Rio-Erklärung auf das Prinzip nachhaltiger Entwicklung — bis heute bekannt als Agenda 21.",
+    "text": "Nachdem wir uns mit dem Verständnis von Nachhaltigkeit vertraut gemacht und das systemdynamische Weltmodell betrachtet haben, soll es jetzt noch „realer“ werden. In der systemdynamischen Modellierung fehlt dafür der Raum: Akteure (Menschen, Tiere, Pflanzen etc.) handeln und interagieren im Raum. Ich muss vor einem Baum stehen, um ihn zu fällen, und eine Kuh muss auf der Weide sein, um Gras zu fressen.\nGleichzeitig ist es sehr schwierig, z. B. das Fressverhalten einer Kuh in eine mathematische Gleichung zu pressen. Vielmehr folgt sie Regeln (z. B. „friss das saftigste Gras im Umkreis von einem Meter und wandere weiter“).\nMit einem einfachen NetLogo-Modell sollt ihr nun Aussagen über nachhaltiges Verhalten treffen.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-1-intro.html#die-rolle-von-modellen-im-diskurs",
-    "href": "Workshop/sitzung-2-1-intro.html#die-rolle-von-modellen-im-diskurs",
-    "title": "Einführung",
-    "section": "Die Rolle von Modellen im Diskurs",
-    "text": "Die Rolle von Modellen im Diskurs\nBei aller Theorie und Politik: Ausgelöst wurde die Debatte vor fast genau 50 Jahren durch ein konkretes Modell.\nGrundlage der Erkenntnisse über die Begrenztheit des Wachstums ist ein mathematisches Modell, das Weltmodell, von Jay Forrester das zentrale Zusammenhänge mit Gleichungen beschreibt. Um konkrete Aussagen zu erhalten, wurden die damals verfügbaren Daten eingespeist. Da das Modell rechnergestützt war, konnten Simulationen Prognosen liefern. Auf dieser Basis führten Donella und Dennis Meadows mit weiteren Wissenschaftler:innen ihre Analysen für Limits to Growth durch.",
+    "objectID": "Workshop/sitzung-2-3-gierig.html#merksätze",
+    "href": "Workshop/sitzung-2-3-gierig.html#merksätze",
+    "title": "Gierig oder solidarisch",
+    "section": "Merksätze",
+    "text": "Merksätze\n\nNutzungsregeln für Ressourcen sollten klar definiert und so einfach wie möglich sein.\nRegeln müssen von den Akteuren akzeptiert werden, oder das gemeinsam definierte Nutzungsziel muss erreicht werden.\nEntwicklung, Akzeptanz und Durchsetzung (→ Slider!) von Regeln sind die Basis kollektiver Ressourcennutzung.\nStatt reale (u. U. irreversible) Experimente zu machen, nutzen wir Modellierungssoftware (NetLogo, InsightMaker, …) für vereinfachte Modelle.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   },
   {
-    "objectID": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
-    "href": "Workshop/sitzung-2-1-intro.html#systemdynamik-das-weltmodell-30-jahre-später",
-    "title": "Einführung",
-    "section": "Systemdynamik — das Weltmodell 30 Jahre später",
-    "text": "Systemdynamik — das Weltmodell 30 Jahre später\nDie Simulationen waren der Ausgangspunkt, um die Grenzen des Wachstums quantitativ zu zeigen — ohne reale Experimente — und so die Notwendigkeit von Ressourcenschonung sichtbar zu machen.\nForrester entwickelte neben dem Weltmodell auch das Konzept der grafischen dynamischen Modellierung (mit Kolleg:innen am MIT). Dieses vereinfacht klassisches Programmieren durch grafische Bausteine, denen Formeln und Wirkungen zugeordnet sind.\nSowohl das Weltmodell als auch entsprechende Umgebungen wurden kontinuierlich weiterentwickelt. Heute steht eine Vielzahl von Software und Weltmodellen zur Verfügung. Das bekannteste ist vermutlich das World3-Modell von 2008, das aufgrund seiner Prominenz in nahezu allen Systemdynamik-Umgebungen verfügbar ist.",
+    "objectID": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
+    "href": "Workshop/sitzung-2-3-gierig.html#mehr-dazu",
+    "title": "Gierig oder solidarisch",
+    "section": "Mehr dazu",
+    "text": "Mehr dazu\nEin Tutorial für den Einstieg in NetLogo. Hintergrund zu Cooperation.",
     "crumbs": [
       "FAQ",
       "Workshop",
-      "Einführung"
+      "Gierig oder solidarisch"
     ]
   }
 ]
